@@ -19,13 +19,10 @@ def run(content):
     Dd = getUVSecondCircleDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
     res = get_plausible_filtered(sqlContext, Dk, Dd, base_coin_functions)
     res = res.filter((col("a_node") == content) | (col("b_node") == content)).sort(desc("_weight")).take(3)
-    # rows = res.select('a_node').collect()
-    a_nodes = np.array([int(row.a_node) for row in res])
-    # res = res.select('b_node').collect()
-    b_nodes = np.array([int(row.b_node) for row in res])
-    # res = res.select('_weight').collect()
-    weights = np.array([int(row._weight) for row in res])
-    return np.hstack((a_nodes, b_nodes, weights)).transpose().ravel()
+    a_nodes = [np.array([int(row.a_node) for row in res])]
+    b_nodes = [np.array([int(row.b_node) for row in res])]
+    weights = [np.array([int(row._weight) for row in res])]
+    return np.concatenate((a_nodes, b_nodes, weights), axis=0).transpose()
 
 
 print (run("1024"))
