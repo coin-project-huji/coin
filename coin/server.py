@@ -15,7 +15,7 @@ def run():
     to = request.get_json()["to"]
     content = request.get_json()["content"]
     emails.sendEmail(to, content)
-    return
+    return '', 204
 
 
 if __name__ == '__main__':
