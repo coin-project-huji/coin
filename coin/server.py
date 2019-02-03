@@ -1,6 +1,6 @@
 import json
 import emails
-from flask import Flask, request
+from flask import Flask, request, Response
 
 app = Flask(__name__)
 
@@ -15,11 +15,7 @@ def run():
     to = request.get_json()["to"]
     content = request.get_json()["content"]
     emails.sendEmail(to, content)
-    data = json.dumps({
-        "to": to,
-        "content": content
-    })
-    return data
+    return
 
 
 if __name__ == '__main__':
