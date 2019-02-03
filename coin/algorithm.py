@@ -19,7 +19,7 @@ LOCAL_DATA_PATH = "facebook_combined.txt.gz"
 
 DATA_SOURCE_URL = "http://snap.stanford.edu/data/facebook_combined.txt.gz"
 
-os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-1.8.0-openjdk-amd64"
+# os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-1.8.0-openjdk-amd64"
 
 
 def run(content):
