@@ -35,6 +35,13 @@ def run(content):
     a_nodes = [np.array([int(row.a_node) for row in res])]
     b_nodes = [np.array([int(row.b_node) for row in res])]
     weights = [np.array([int(row._weight) for row in res])]
-    return np.concatenate((titles, np.concatenate((a_nodes, b_nodes, weights), axis=0).transpose()), axis=0)
+    # return np.concatenate((titles, np.concatenate((a_nodes, b_nodes, weights), axis=0).transpose()), axis=0)[0]
+    res = np.concatenate((titles, np.concatenate((a_nodes, b_nodes, weights), axis=0).transpose()), axis=0)
+    return prettify_table(res)
+
+
+def prettify_table(table_arrays):
+    return '\n'.join(' '.join(map(str, sl)) for sl in table_arrays).replace("[", "").replace("]", "")
+
 
 # print (run("1746"))

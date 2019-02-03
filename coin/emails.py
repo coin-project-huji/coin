@@ -34,8 +34,7 @@ def sendSecondEmail(to, content):
     except:
         print "sending email to: " + to + " with content: " + content + " failed"
         return
-    parsed_result = ''.join(algorithm_results)
-    msg = MIMEText("And the top results are:\n" + parsed_result)
+    msg = MIMEText("And the top results are:\n" + algorithm_results)
     msg['Subject'] = "Search request results"
     msg['From'] = "coin.project@sandboxcf29099671c7490eb8f0475d59ba01a7.mailgun.org"
     msg['To'] = to
