@@ -1,6 +1,5 @@
-import requests
 
-from coin.algorithm import run
+from algorithm import run
 
 COIN_EMAIL = 'coin.project.serch.engine@gmail.com'
 

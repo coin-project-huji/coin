@@ -37,4 +37,4 @@ def run(content):
     weights = [np.array([int(row._weight) for row in res])]
     return np.concatenate((titles, np.concatenate((a_nodes, b_nodes, weights), axis=0).transpose()), axis=0)
 
-print (run("1746"))
+# print (run("1746"))
