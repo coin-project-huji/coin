@@ -39,7 +39,7 @@ def run(content):
         # return np.concatenate((titles, np.concatenate((a_nodes, b_nodes, weights), axis=0).transpose()), axis=0)[0]
         res = np.concatenate((titles, np.concatenate((a_nodes, b_nodes, weights), axis=0).transpose()), axis=0)
     except Exception as e:
-        print e
+        print "error -------------> \n", e
     return prettify_table(res)
 
 
