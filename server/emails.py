@@ -10,8 +10,9 @@ from email.mime.text import MIMEText
 
 
 def sendEmail(to, content):
+    # sendFirstEmail(to, content)
     sendFirstEmail(to, content)
-    sendFirstEmail(to, content)
+
 
 def sendFirstEmail(to, content):
     msg = MIMEText("We are searching results for your search: " + content + "\n"
@@ -27,11 +28,16 @@ def sendFirstEmail(to, content):
     s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()
 
+
 def sendSecondEmail(to, content):
-    algorithm_results = run(content)
+    try:
+        algorithm_results = run(content)
+    except:
+        print "sending email to: " + to + " with content: " + content + " failed"
+        return
     parsed_result = ''.join(algorithm_results)
-    msg = MIMEText("And the results are:\n" + parsed_result)
-    msg['Subject'] = "Search request submitted"
+    msg = MIMEText("And the top results are:\n" + parsed_result)
+    msg['Subject'] = "Search request results"
     msg['From'] = "coin.project@sandboxcf29099671c7490eb8f0475d59ba01a7.mailgun.org"
     msg['To'] = to
 

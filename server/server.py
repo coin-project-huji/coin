@@ -14,8 +14,7 @@ def hello_world():
 def run():
     to = request.get_json()["to"]
     content = request.get_json()["content"]
-    response = emails.sendEmail(to, content)
-    print(response)
+    emails.sendEmail(to, content)
     data = json.dumps({
         "to": to,
         "content": content
