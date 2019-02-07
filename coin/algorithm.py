@@ -83,5 +83,5 @@ def add_row_to_result(node_, result, row):
     return result
 
 
-print (run("Heart failure"))
+# print (run("Heart failure"))
 # parse_string_to_numeric("Heart failure")
