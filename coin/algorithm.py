@@ -3,6 +3,7 @@ import os
 
 import numpy as np
 import pyspark
+from pyspark.sql.functions import col, desc
 
 from CoinBase import *
 from Engine import *
