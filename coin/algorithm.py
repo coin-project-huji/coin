@@ -44,7 +44,7 @@ def run(string_content):
     try:
         content, user_input = parse_string_to_numeric(string_content)
         # urllib.urlretrieve(DATA_SOURCE_URL, LOCAL_DATA_PATH)
-        sc = pyspark.SparkContext.getOrCreate("main")
+        sc = pyspark.SparkContext.getOrCreate()
         sqlContext = pyspark.SQLContext(sc)
         edge_pairs = sc.textFile(LOCAL_DATA_PATH)
         Dk = getUVDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
