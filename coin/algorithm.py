@@ -78,8 +78,10 @@ def run(string_content):
         # res = res.filter((col(A_NODE) == content) | (col(B_NODE) == content)).sort(desc(WEIGHT)).take(4)
         # results_map = get_results_map(content, user_input, res)
         # return results_map
+        return get_results_map("", "TEST", [])
     except Exception as e:
         print "error -------------> \n", e
+        return e
 
 
 def get_results_map(content, user_input, res):
