@@ -37,6 +37,7 @@ with open('icd_top_codes.json') as f:
 with open('people.csv', 'w') as writeFile:
     writer = csv.writer(writeFile)
 
+
 def parse_string_to_numeric(string_content):
     keys = np.array(disease_to_numeric.keys())
     isin = np.flatnonzero(np.core.defchararray.find(keys, string_content) != -1)
@@ -47,13 +48,14 @@ def parse_string_to_numeric(string_content):
 
 
 def writeDBResource(res):
-    res = res.sort(desc(WEIGHT)).take(3000)
+    res = res.sort(desc(WEIGHT)).take(1000)
     max_weight = res.first()[WEIGHT_INDEX]
     to_add_row = []
     for row in res:
-        to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]] / max_weight)
-        to_add_row.append(numeric_to_disease[row[B_NODE_INDEX]] / max_weight)
-        to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]] / max_weight)
+        to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]])
+        to_add_row.append(numeric_to_disease[row[B_NODE_INDEX]])
+        to_add_row.append(row[WEIGHT_INDEX] / max_weight)
+        print to_add_row
         writer.writerows(to_add_row)
         to_add_row = []
 
@@ -69,12 +71,15 @@ def run(string_content):
         Dd = getUVSecondCircleDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         res = get_plausible_filtered(sqlContext, Dk, Dd, base_coin_functions)
         res.take(1000).toPandas().to_csv('pandas.csv')
+        print "-----------------------------saved into pandas--------------------------------"
         writeDBResource(res)
+        print "-----------------------------saved into people--------------------------------"
+
         # res = res.filter((col(A_NODE) == content) | (col(B_NODE) == content)).sort(desc(WEIGHT)).take(4)
         # results_map = get_results_map(content, user_input, res)
+        # return results_map
     except Exception as e:
         print "error -------------> \n", e
-    # return results_map
 
 
 def get_results_map(content, user_input, res):
@@ -102,7 +107,6 @@ def add_row_to_result(node_, result, row):
         for line in node_:
             result = result + line + "\n"
     return result
-
 
 # print (run("Heart failure"))
 # parse_string_to_numeric("Heart failure")
