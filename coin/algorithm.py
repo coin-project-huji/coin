@@ -1,9 +1,10 @@
+import csv
 import json
 import os
 
 import numpy as np
 import pyspark
-from pyspark.sql.functions import col, desc
+from pyspark.sql.functions import desc
 
 from CoinBase import *
 from Engine import *
@@ -28,8 +29,13 @@ with open('disease_to_numeric.json') as f:
     disease_to_numeric = json.load(f)
 
 with open('icd_bottom_codes.json') as f:
-    numeric_to_diseases = json.load(f)
+    numeric_to_full_diseases = json.load(f)
 
+with open('icd_top_codes.json') as f:
+    numeric_to_disease = json.load(f)
+
+with open('people.csv', 'w') as writeFile:
+    writer = csv.writer(writeFile)
 
 def parse_string_to_numeric(string_content):
     keys = np.array(disease_to_numeric.keys())
@@ -38,6 +44,18 @@ def parse_string_to_numeric(string_content):
     if not relevant:
         raise Exception("No results.")
     return disease_to_numeric[relevant[0]], relevant[0]
+
+
+def writeDBResource(res):
+    res = res.sort(desc(WEIGHT)).take(3000)
+    max_weight = res.first()[WEIGHT_INDEX]
+    to_add_row = []
+    for row in res:
+        to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]] / max_weight)
+        to_add_row.append(numeric_to_disease[row[B_NODE_INDEX]] / max_weight)
+        to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]] / max_weight)
+        writer.writerows(to_add_row)
+        to_add_row = []
 
 
 def run(string_content):
@@ -50,11 +68,13 @@ def run(string_content):
         Dk = getUVDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         Dd = getUVSecondCircleDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         res = get_plausible_filtered(sqlContext, Dk, Dd, base_coin_functions)
-        res = res.filter((col(A_NODE) == content) | (col(B_NODE) == content)).sort(desc(WEIGHT)).take(4)
-        results_map = get_results_map(content, user_input, res)
+        res.take(1000).toPandas().to_csv('pandas.csv')
+        writeDBResource(res)
+        # res = res.filter((col(A_NODE) == content) | (col(B_NODE) == content)).sort(desc(WEIGHT)).take(4)
+        # results_map = get_results_map(content, user_input, res)
     except Exception as e:
         print "error -------------> \n", e
-    return results_map
+    # return results_map
 
 
 def get_results_map(content, user_input, res):
@@ -71,7 +91,7 @@ def get_results_map(content, user_input, res):
 
 
 def parse_row(result, row, node_index):
-    node_ = numeric_to_diseases[row[node_index]]
+    node_ = numeric_to_full_diseases[row[node_index]]
     result = add_row_to_result(node_, result, row)
     return result
 
