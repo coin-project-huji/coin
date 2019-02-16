@@ -71,9 +71,9 @@ def run(string_content):
         Dd = getUVSecondCircleDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         res = get_plausible_filtered(sqlContext, Dk, Dd, base_coin_functions)
         res.take(1000).toPandas().to_csv('pandas.csv')
-        print "-----------------------------saved into pandas--------------------------------"
+        print ("-----------------------------saved into pandas--------------------------------")
         writeDBResource(res)
-        print "-----------------------------saved into people--------------------------------"
+        print ("-----------------------------saved into people--------------------------------")
 
         # res = res.filter((col(A_NODE) == content) | (col(B_NODE) == content)).sort(desc(WEIGHT)).take(4)
         # results_map = get_results_map(content, user_input, res)
