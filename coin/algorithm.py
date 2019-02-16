@@ -81,7 +81,7 @@ def run(string_content):
         return get_results_map("", "TEST", [])
     except Exception as e:
         print ("error -------------> \n", e)
-        return e
+        return e.__str__()
 
 
 def get_results_map(content, user_input, res):
