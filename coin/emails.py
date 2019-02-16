@@ -32,7 +32,7 @@ def sendSecondEmail(to, content):
     try:
         algorithm_results = run(content)
     except:
-        print "sending email to: " + to + " with content: " + content + " failed"
+        print ("sending email to: " + to + " with content: " + content + " failed")
         return
     msg = MIMEText("And the top results are:\n" + algorithm_results)
     msg['Subject'] = "Search request results"
