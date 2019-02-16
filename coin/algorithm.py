@@ -55,7 +55,7 @@ def writeDBResource(res):
         to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]])
         to_add_row.append(numeric_to_disease[row[B_NODE_INDEX]])
         to_add_row.append(row[WEIGHT_INDEX] / max_weight)
-        print to_add_row
+        print (to_add_row)
         writer.writerows(to_add_row)
         to_add_row = []
 
@@ -80,7 +80,7 @@ def run(string_content):
         # return results_map
         return get_results_map("", "TEST", [])
     except Exception as e:
-        print "error -------------> \n", e
+        print ("error -------------> \n", e)
         return e
 
 
@@ -93,7 +93,7 @@ def get_results_map(content, user_input, res):
             else:
                 result = parse_row(result, row, B_NODE_INDEX)
         except Exception as e:
-            print e
+            print (e)
     return result
 
 
