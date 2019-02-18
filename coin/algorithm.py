@@ -70,7 +70,7 @@ def run(string_content):
         Dk = getUVDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         Dd = getUVSecondCircleDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         res = get_plausible_filtered(sqlContext, Dk, Dd, base_coin_functions)
-        res.take(1000).toPandas().to_csv('pandas.csv')
+        # res.take(1000).toPandas().to_csv('pandas.csv')
         print ("-----------------------------saved into pandas--------------------------------")
         writeDBResource(res)
         print ("-----------------------------saved into people--------------------------------")
