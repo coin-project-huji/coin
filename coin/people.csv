@@ -1,125 +1,1000 @@
-Purpura and other hemorrhagic conditions,"Pneumonia, organism unspecified",1.0
-Septicemia,General symptoms,0.6666666666666666
-"Pneumonia, organism unspecified",Acute kidney failure,0.6666666666666666
-"Pneumonia, organism unspecified",Other disorders of gallbladder,0.6666666666666666
-"Pneumonia, organism unspecified",Chronic kidney disease (ckd),0.6666666666666666
-"Pneumonia, organism unspecified",Cholelithiasis,0.6666666666666666
-Purpura and other hemorrhagic conditions,Other ill-defined and unknown causes of morbidity and mortality,0.5
-Cholelithiasis,General symptoms,0.5
-Septicemia,Cardiac dysrhythmias,0.5
-Other disorders of gallbladder,General symptoms,0.5
-Acute kidney failure,General symptoms,0.5
-Purpura and other hemorrhagic conditions,Other alveolar and parietoalveolar pneumonopathy,0.5
-Chronic kidney disease (ckd),General symptoms,0.5
-Chronic kidney disease (ckd),Other ill-defined and unknown causes of morbidity and mortality,0.3333333333333333
-Cardiac dysrhythmias,Acute kidney failure,0.3333333333333333
-Purpura and other hemorrhagic conditions,Acute myocardial infarction,0.3333333333333333
-Cholelithiasis,Other ill-defined and unknown causes of morbidity and mortality,0.3333333333333333
-Acute kidney failure,Other ill-defined and unknown causes of morbidity and mortality,0.3333333333333333
-Asthma,General symptoms,0.3333333333333333
-Pneumonitis due to solids and liquids,Chronic kidney disease (ckd),0.3333333333333333
-Other alveolar and parietoalveolar pneumonopathy,Acute kidney failure,0.3333333333333333
-Pneumonitis due to solids and liquids,Acute kidney failure,0.3333333333333333
-Acute myocardial infarction,Other diseases of lung,0.3333333333333333
-"Depressive disorder, not elsewhere classified",Pneumonitis due to solids and liquids,0.3333333333333333
-Epilepsy and recurrent seizures,"Pneumonia, organism unspecified",0.3333333333333333
-Septicemia,Epilepsy and recurrent seizures,0.3333333333333333
-Purpura and other hemorrhagic conditions,Heart failure,0.3333333333333333
-Other alveolar and parietoalveolar pneumonopathy,Other disorders of gallbladder,0.3333333333333333
-Other disorders of gallbladder,Other ill-defined and unknown causes of morbidity and mortality,0.3333333333333333
-Other alveolar and parietoalveolar pneumonopathy,Chronic kidney disease (ckd),0.3333333333333333
-Septicemia,Acute myocardial infarction,0.3333333333333333
-"Depressive disorder, not elsewhere classified","Pneumonia, organism unspecified",0.3333333333333333
-Hypotension,Certain adverse effects not elsewhere classified,0.3333333333333333
-Pneumonitis due to solids and liquids,Other disorders of gallbladder,0.3333333333333333
-Asthma,Other alveolar and parietoalveolar pneumonopathy,0.3333333333333333
-Disorders of fluid electrolyte and acid-base balance,Certain adverse effects not elsewhere classified,0.3333333333333333
-Heart failure,Other diseases of lung,0.3333333333333333
-Cardiac dysrhythmias,"Pneumonia, organism unspecified",0.3333333333333333
-Cardiac dysrhythmias,Cardiac dysrhythmias,0.3333333333333333
-Other alveolar and parietoalveolar pneumonopathy,Cholelithiasis,0.3333333333333333
-Septicemia,Pneumonitis due to solids and liquids,0.3333333333333333
-Septicemia,Heart failure,0.3333333333333333
-Pneumonitis due to solids and liquids,Cholelithiasis,0.3333333333333333
-Epilepsy and recurrent seizures,Other alveolar and parietoalveolar pneumonopathy,0.16666666666666666
-Septicemia,Multiple myeloma and immunoproliferative neoplasms,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,Essential hypertension,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,General symptoms,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,Symptoms involving cardiovascular system,0.16666666666666666
-Essential hypertension,Heart failure,0.16666666666666666
-Other alveolar and parietoalveolar pneumonopathy,Other ill-defined and unknown causes of morbidity and mortality,0.16666666666666666
-Acute pulmonary heart disease,Other ill-defined and unknown causes of morbidity and mortality,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,Pneumonitis due to solids and liquids,0.16666666666666666
-Heart failure,Other disorders of gallbladder,0.16666666666666666
-Gastrointestinal hemorrhage,Symptoms involving respiratory system and other chest symptoms,0.16666666666666666
-Essential hypertension,Acute myocardial infarction,0.16666666666666666
-Cardiac dysrhythmias,Pneumonia due to other specified organism,0.16666666666666666
-Other diseases of lung,Other diseases of lung,0.16666666666666666
-Cholelithiasis,Gastrointestinal hemorrhage,0.16666666666666666
-Essential hypertension,Other diseases of lung,0.16666666666666666
-Cardiac dysrhythmias,Other ill-defined and unknown causes of morbidity and mortality,0.16666666666666666
-Hypotension,"Pneumonia, organism unspecified",0.16666666666666666
-Chronic bronchitis,Other diseases of lung,0.16666666666666666
-Hypotension,General symptoms,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,Other alveolar and parietoalveolar pneumonopathy,0.16666666666666666
-Purpura and other hemorrhagic conditions,Chronic bronchitis,0.16666666666666666
-General symptoms,General symptoms,0.16666666666666666
-Other diseases of lung,Other disorders of urethra and urinary tract,0.16666666666666666
-Other forms of chronic ischemic heart disease,Chronic kidney disease (ckd),0.16666666666666666
-Acute myocardial infarction,Cardiac dysrhythmias,0.16666666666666666
-Chronic bronchitis,Pneumonitis due to solids and liquids,0.16666666666666666
-Multiple myeloma and immunoproliferative neoplasms,Other diseases of lung,0.16666666666666666
-Essential hypertension,Hypotension,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,Other diseases of lung,0.16666666666666666
-Epilepsy and recurrent seizures,Other ill-defined and unknown causes of morbidity and mortality,0.16666666666666666
-Purpura and other hemorrhagic conditions,Hypotension,0.16666666666666666
-Essential hypertension,Pneumonitis due to solids and liquids,0.16666666666666666
-Asthma,Pneumonitis due to solids and liquids,0.16666666666666666
-Essential hypertension,Symptoms involving cardiovascular system,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,Purpura and other hemorrhagic conditions,0.16666666666666666
-Heart failure,Symptoms involving digestive system,0.16666666666666666
-Other forms of chronic ischemic heart disease,"Pneumonia, organism unspecified",0.16666666666666666
-Essential hypertension,Acute kidney failure,0.16666666666666666
-Pneumonia due to other specified organism,Other alveolar and parietoalveolar pneumonopathy,0.16666666666666666
-Multiple myeloma and immunoproliferative neoplasms,Gastrointestinal hemorrhage,0.16666666666666666
-Pneumonitis due to solids and liquids,Gastrointestinal hemorrhage,0.16666666666666666
-Gastrointestinal hemorrhage,General symptoms,0.16666666666666666
-Pneumonia due to other specified organism,"Pneumonia, organism unspecified",0.16666666666666666
-Acute myocardial infarction,Symptoms involving digestive system,0.16666666666666666
-Chronic bronchitis,Other ill-defined and unknown causes of morbidity and mortality,0.16666666666666666
-Purpura and other hemorrhagic conditions,"Depressive disorder, not elsewhere classified",0.16666666666666666
-Persistent mental disorders due to conditions classified elsewhere,Gastrointestinal hemorrhage,0.16666666666666666
-Hypotension,Pneumonitis due to solids and liquids,0.16666666666666666
-Hypotension,Other diseases of lung,0.16666666666666666
-Encephalitis myelitis and encephalomyelitis,Symptoms involving cardiovascular system,0.16666666666666666
-Other diseases of lung,Gastrointestinal hemorrhage,0.16666666666666666
-Other forms of chronic ischemic heart disease,Gastrointestinal hemorrhage,0.16666666666666666
-Multiple myeloma and immunoproliferative neoplasms,Purpura and other hemorrhagic conditions,0.16666666666666666
-Septicemia,Other disorders of urethra and urinary tract,0.16666666666666666
-Cardiac dysrhythmias,Asthma,0.16666666666666666
-"Depressive disorder, not elsewhere classified",Other ill-defined and unknown causes of morbidity and mortality,0.16666666666666666
-Purpura and other hemorrhagic conditions,Essential hypertension,0.16666666666666666
-Purpura and other hemorrhagic conditions,Other disorders of urethra and urinary tract,0.16666666666666666
-Acute myocardial infarction,Other disorders of gallbladder,0.16666666666666666
-Gastrointestinal hemorrhage,Certain adverse effects not elsewhere classified,0.16666666666666666
-Disorders of fluid electrolyte and acid-base balance,"Pneumonia, organism unspecified",0.16666666666666666
-Purpura and other hemorrhagic conditions,Gastrointestinal hemorrhage,0.16666666666666666
-Essential hypertension,General symptoms,0.16666666666666666
-Cholelithiasis,Symptoms involving digestive system,0.16666666666666666
-Chronic bronchitis,General symptoms,0.16666666666666666
-Symptoms involving respiratory system and other chest symptoms,Other ill-defined and unknown causes of morbidity and mortality,0.16666666666666666
-Multiple myeloma and immunoproliferative neoplasms,Other disorders of gallbladder,0.16666666666666666
-Acute kidney failure,Symptoms involving respiratory system and other chest symptoms,0.16666666666666666
-Cardiac dysrhythmias,Chronic kidney disease (ckd),0.16666666666666666
-Essential hypertension,Pneumonia due to other specified organism,0.16666666666666666
-Other forms of chronic ischemic heart disease,Acute kidney failure,0.16666666666666666
-Hypotension,Symptoms involving cardiovascular system,0.16666666666666666
-Multiple myeloma and immunoproliferative neoplasms,Chronic kidney disease (ckd),0.16666666666666666
-Chronic kidney disease (ckd),Symptoms involving respiratory system and other chest symptoms,0.16666666666666666
-"Depressive disorder, not elsewhere classified",Other alveolar and parietoalveolar pneumonopathy,0.16666666666666666
-Cardiac dysrhythmias,Other disorders of gallbladder,0.16666666666666666
-Cardiac dysrhythmias,Heart failure,0.16666666666666666
-Cardiac dysrhythmias,Cholelithiasis,0.16666666666666666
-Persistent mental disorders due to conditions classified elsewhere,Chronic bronchitis,0.16666666666666666
-Hypotension,Other alveolar and parietoalveolar pneumonopathy,0.16666666666666666
-Cardiac dysrhythmias,Other alveolar and parietoalveolar pneumonopathy,0.16666666666666666
+Other forms of chronic ischemic heart disease,Regional enteritis,1.0
+Other conditions of brain,Traumatic pneumothorax and hemothorax,0.998999599839936
+Disorders of mineral metabolism,Acute pulmonary heart disease,0.9981992797118847
+"Depressive disorder, not elsewhere classified",Aortic aneurysm and dissection,0.990296118447379
+"Pneumonia, organism unspecified",Other congenital anomalies of heart,0.9831932773109243
+Acquired hypothyroidism,Cholelithiasis,0.9816926770708283
+Lymphoid leukemia,"Depressive disorder, not elsewhere classified",0.9728891556622649
+Herpes zoster,Chronic bronchitis,0.9698879551820728
+Malignant neoplasm of bone and articular cartilage,Disorders of fluid electrolyte and acid-base balance,0.968687474989996
+Regional enteritis,Certain adverse effects not elsewhere classified,0.9667867146858744
+Cardiomyopathy,Other and unspecified intracranial hemorrhage,0.9564825930372148
+Disorders of mineral metabolism,Cardiomyopathy,0.9525810324129652
+Acute and subacute necrosis of liver,Nonspecific findings on examination of blood,0.9489795918367347
+Other disorders of urethra and urinary tract,Intracranial injury of other and unspecified nature,0.9458783513405362
+Malignant neoplasm of stomach,Other ill-defined and unknown causes of morbidity and mortality,0.9426770708283313
+"Depressive disorder, not elsewhere classified",Acute and subacute necrosis of liver,0.9366746698679472
+Diseases of white blood cells,Aortic aneurysm and dissection,0.9332733093237295
+Arterial embolism and thrombosis,Certain adverse effects not elsewhere classified,0.9332733093237295
+Muscular dystrophies and other myopathies,Nonspecific findings on examination of blood,0.9314725890356143
+Malignant neoplasm of stomach,Symptoms involving cardiovascular system,0.9247699079631853
+Intestinal obstruction without mention of hernia,Other disorders of liver,0.9115646258503401
+Other disorders of pancreatic internal secretion,Occlusion of cerebral arteries,0.9069627851140456
+Other conditions of brain,Vascular insufficiency of intestine,0.9061624649859944
+Coagulation defects,Coagulation defects,0.8997599039615847
+Other acute and subacute forms of ischemic heart disease,Chronic liver disease and cirrhosis,0.8996598639455783
+Secondary malignant neoplasm of other specified sites,Nonspecific findings on examination of blood,0.8992597038815526
+Episodic mood disorders,Occlusion of cerebral arteries,0.898859543817527
+Transient cerebral ischemia,Pleurisy,0.8960584233693477
+Migraine,Other ill-defined and unknown causes of morbidity and mortality,0.8952581032412965
+Thyrotoxicosis with or without goiter,Other forms of chronic ischemic heart disease,0.8845538215286114
+Chronic bronchitis,Gingival and periodontal diseases,0.881952781112445
+Pneumonitis due to solids and liquids,Osteomyelitis periostitis and other infections involving bone,0.8763505402160864
+"Overweight, obesity and other hyperalimentation","Renal failure, unspecified",0.8738495398159264
+Arthropathy associated with infections,Symptoms involving cardiovascular system,0.8726490596238495
+Disorders of fluid electrolyte and acid-base balance,Atherosclerosis,0.8663465386154462
+"Acute, but ill-defined, cerebrovascular disease",Diseases of pancreas,0.8635454181672669
+Other and unspecified anemias,Schizophrenic disorders,0.8613445378151261
+Acquired hypothyroidism,Gastritis and duodenitis,0.85984393757503
+Certain adverse effects not elsewhere classified,Certain adverse effects not elsewhere classified,0.8591436574629852
+"Overweight, obesity and other hyperalimentation",Arterial embolism and thrombosis,0.8578431372549019
+Ill-defined intestinal infections,Other conditions of brain,0.8567426970788315
+Anterior horn cell disease,Chronic kidney disease (ckd),0.8560424169667867
+Ill-defined intestinal infections,Symptoms involving respiratory system and other chest symptoms,0.8451380552220888
+"Acute, but ill-defined, cerebrovascular disease",Peritonitis and retroperitoneal infections,0.8449379751900761
+Acute myocarditis,Other ill-defined and unknown causes of morbidity and mortality,0.8398359343737495
+Other and unspecified disorders of the nervous system,Other forms of chronic ischemic heart disease,0.8349339735894358
+Hypertensive heart disease,Cardiac dysrhythmias,0.834233693477391
+Other forms of chronic ischemic heart disease,Arthropathy associated with infections,0.8278311324529812
+Human immunodeficiency virus [HIV] disease,Cardiac dysrhythmias,0.8225290116046419
+Asthma,Vascular insufficiency of intestine,0.8164265706282513
+"Overweight, obesity and other hyperalimentation",Varicose veins of other sites,0.8128251300520208
+Other disorders of pancreatic internal secretion,Other acute and subacute forms of ischemic heart disease,0.8072228891556623
+Varicose veins of other sites,Other disorders of urethra and urinary tract,0.8062224889955982
+Other and unspecified anemias,Calculus of kidney and ureter,0.8056222488995598
+Hypertensive heart disease,Chronic bronchitis,0.8020208083233293
+Asthma,Fracture of rib(s) sternum larynx and trachea,0.8020208083233293
+Chronic bronchitis,Abscess of lung and mediastinum,0.8018207282913166
+Symptoms involving digestive system,Symptoms involving digestive system,0.8004201680672269
+Septicemia,Malignant neoplasm of larynx,0.7974189675870348
+Malignant neoplasm of female breast,Other ill-defined and unknown causes of morbidity and mortality,0.7953181272509003
+General symptoms,Spinal cord injury without evidence of spinal bone injury,0.7922168867547019
+Acute myocarditis,Symptoms involving cardiovascular system,0.789515806322529
+Coagulation defects,Other paralytic syndromes,0.7869147659063626
+Other ill-defined and unknown causes of morbidity and mortality,Injury to gastrointestinal tract,0.7861144457783114
+Malignant neoplasm of other and unspecified parts of nervous system,Other conditions of brain,0.7854141656662665
+Schizophrenic disorders,Other disorders of liver,0.7846138455382153
+Hypertensive heart and chronic kidney disease,"Pneumonia, organism unspecified",0.7826130452180873
+Acute myocardial infarction,Diverticula of intestine,0.7802120848339336
+Transient mental disorders due to conditions classified elsewhere,Other alveolar and parietoalveolar pneumonopathy,0.7786114445778312
+Diabetes mellitus,Other paralytic syndromes,0.7753101240496199
+Other disorders of pancreatic internal secretion,Other complications of procedures not elsewhere classified,0.7684073629451781
+Diabetes mellitus,Subarachnoid subdural and extradural hemorrhage following injury,0.7666066426570628
+"Overweight, obesity and other hyperalimentation",Intracranial injury of other and unspecified nature,0.7654061624649859
+Other and unspecified anemias,Toxic effect of alcohol,0.7627050820328132
+Hereditary hemolytic anemias,Other ill-defined and unknown causes of morbidity and mortality,0.7598039215686274
+Essential hypertension,Injury to spleen,0.759203681472589
+Malignant neoplasm of trachea bronchus and lung,Chronic ulcer of skin,0.757703081232493
+Arterial embolism and thrombosis,Other disorders of urethra and urinary tract,0.755202080832333
+Hodgkin's disease,Symptoms involving cardiovascular system,0.7538015206082433
+Other and unspecified anemias,Other and unspecified anemias,0.7529011604641856
+Schizophrenic disorders,Other diseases of endocardium,0.7503001200480192
+Diseases of mitral valve,General symptoms,0.7481992797118847
+Malignant neoplasm of other and unspecified parts of nervous system,Asthma,0.7439975990396158
+Malignant neoplasm of ovary and other uterine adnexa,Acquired hypothyroidism,0.7439975990396158
+Episodic mood disorders,Other paralytic syndromes,0.740796318527411
+Malignant neoplasm of trachea bronchus and lung,Complications peculiar to certain specified procedures,0.7393957583033214
+"Acute, but ill-defined, cerebrovascular disease",Liver abscess and sequelae of chronic liver disease,0.736594637855142
+Septicemia,Herpes zoster,0.7364945978391356
+Heart failure,Varicose veins of other sites,0.7353941576630653
+Hypertensive heart and chronic kidney disease,Cardiac dysrhythmias,0.7349939975990396
+Coagulation defects,Disorders of muscle ligament and fascia,0.7334933973589436
+Septicemia,Atherosclerosis,0.7322929171668667
+Pneumonitis due to solids and liquids,Other disorders of intestine,0.7292917166866747
+Other diseases of spinal cord,Chronic bronchitis,0.7245898359343738
+Persistent mental disorders due to conditions classified elsewhere,Infections of kidney,0.7216886754701881
+Transient cerebral ischemia,Symptoms involving digestive system,0.720688275310124
+Aplastic anemia and other bone marrow failure syndromes,Episodic mood disorders,0.7198879551820728
+"Overweight, obesity and other hyperalimentation",Symptoms involving urinary system,0.7177871148459384
+Other forms of chronic ischemic heart disease,Acute and subacute necrosis of liver,0.7162865146058424
+"Pneumonia, organism unspecified",Effects of reduced temperature,0.7132853141256502
+Cardiomyopathy,Aortic aneurysm and dissection,0.7120848339335735
+Ill-defined intestinal infections,Asthma,0.7113845538215287
+Malignant neoplasm of colon,Other disorders of liver,0.7103841536614646
+Herpes simplex,Other ill-defined and unknown causes of morbidity and mortality,0.7090836334533813
+Other disorders of pancreatic internal secretion,Cardiomyopathy,0.7080832332933173
+Other acute and subacute forms of ischemic heart disease,Other and unspecified intracranial hemorrhage,0.7077831132452981
+Other conditions of brain,Other peripheral vascular disease,0.7019807923169268
+Other and unspecified anemias,Arterial embolism and thrombosis,0.6990796318527411
+Herpes zoster,Other ill-defined and unknown causes of morbidity and mortality,0.6941776710684273
+Ill-defined intestinal infections,Pleurisy,0.693577430972389
+Alcohol-induced mental disorders,Other alveolar and parietoalveolar pneumonopathy,0.6850740296118447
+Aplastic anemia and other bone marrow failure syndromes,Cardiomyopathy,0.6847739095638256
+Other malignant neoplasms of lymphoid and histiocytic tissue,Other diseases of endocardium,0.6832733093237295
+Other cellulitis and abscess,Complications peculiar to certain specified procedures,0.6772709083633454
+Disorders of lipoid metabolism,Anterior horn cell disease,0.6752701080432173
+Diabetes mellitus,Liver abscess and sequelae of chronic liver disease,0.6750700280112045
+Other disorders of pancreatic internal secretion,Other and unspecified intracranial hemorrhage,0.6748699479791916
+Other diseases of endocardium,Intracranial injury of other and unspecified nature,0.6733693477390956
+Episodic mood disorders,Other acute and subacute forms of ischemic heart disease,0.6700680272108843
+Malignant neoplasm of trachea bronchus and lung,Intracranial injury of other and unspecified nature,0.6676670668267307
+Other diseases of upper respiratory tract,Certain adverse effects not elsewhere classified,0.6670668267306923
+Conduction disorders,Other symptoms involving abdomen and pelvis,0.665266106442577
+Epilepsy and recurrent seizures,Fracture of rib(s) sternum larynx and trachea,0.6635654261704682
+Epilepsy and recurrent seizures,Vascular insufficiency of intestine,0.6620648259303722
+Other forms of chronic ischemic heart disease,Ulcerative enterocolitis,0.6618647458983593
+Other and unspecified anemias,"Renal failure, unspecified",0.6618647458983593
+Secondary malignant neoplasm of respiratory and digestive systems,Alcohol-induced mental disorders,0.6583633453381352
+Parkinson's disease,Other diseases of endocardium,0.6581632653061225
+Secondary malignant neoplasm of other specified sites,Cystitis,0.6577631052420968
+Diabetes mellitus,Multiple sclerosis,0.657563025210084
+Conduction disorders,Cystitis,0.6573629451780713
+Acute pericarditis,General symptoms,0.6559623849539816
+Episodic mood disorders,Rheumatoid arthritis and other inflammatory polyarthropathies,0.6554621848739496
+Schizophrenic disorders,Chronic liver disease and cirrhosis,0.6552621048419368
+Coagulation defects,Other disorders of intestine,0.6521608643457383
+Other paralytic syndromes,Cardiomyopathy,0.6485594237695078
+Intestinal infections due to other organisms,Cardiomyopathy,0.6477591036414566
+Malignant neoplasm of prostate,"Anxiety, dissociative and somatoform disorders",0.6471588635454182
+Drug-induced mental disorders,Heart failure,0.6467587034813925
+Coagulation defects,Muscular dystrophies and other myopathies,0.6459583833533413
+Other diseases of endocardium,Peptic ulcer site unspecified,0.6458583433373349
+Other diseases of blood and blood-forming organs,Heart failure,0.6452581032412965
+Other alveolar and parietoalveolar pneumonopathy,Intestinal obstruction without mention of hernia,0.6450580232092837
+Other disorders of gallbladder,Other disorders of urethra and urinary tract,0.644157663065226
+Heart failure,Injury to spleen,0.6427571028411364
+Acute myocardial infarction,Fracture of rib(s) sternum larynx and trachea,0.639655862344938
+Disorders of fluid electrolyte and acid-base balance,Other diseases of spinal cord,0.6386554621848739
+Encephalitis myelitis and encephalomyelitis,Essential hypertension,0.6383553421368547
+Malignant neoplasm of gallbladder and extrahepatic bile ducts,Chronic bronchitis,0.6376550620248099
+Other and unspecified anemias,Acute and subacute endocarditis,0.6376550620248099
+Acquired hypothyroidism,Arthropathy associated with infections,0.6375550220088035
+Other diseases of spinal cord,"Pneumonia, organism unspecified",0.6372549019607843
+Transient cerebral ischemia,Other symptoms involving abdomen and pelvis,0.6356542617046819
+Malignant neoplasm of thyroid gland,Acute kidney failure,0.6345538215286114
+Acute pulmonary heart disease,Complications peculiar to certain specified procedures,0.6340536214485795
+Episodic mood disorders,Complications peculiar to certain specified procedures,0.6322529011604642
+Acquired hypothyroidism,Cerebral laceration and contusion,0.6320528211284514
+"Acute, but ill-defined, cerebrovascular disease",Calculus of kidney and ureter,0.6306522609043618
+Chronic liver disease and cirrhosis,Chronic ulcer of skin,0.6298519407763106
+Malignant neoplasm of trachea bronchus and lung,Infections of kidney,0.6275510204081632
+Diseases of mitral valve,Chronic bronchitis,0.6263505402160864
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Asthma,0.6250500200080032
+Pneumonitis due to solids and liquids,"Renal failure, unspecified",0.6248499399759904
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Other and unspecified anemias,0.6234493797519007
+Gastrointestinal hemorrhage,Disorders of muscle ligament and fascia,0.6221488595438175
+Secondary malignant neoplasm of respiratory and digestive systems,Symptoms involving respiratory system and other chest symptoms,0.6218487394957983
+"Overweight, obesity and other hyperalimentation",Other disorders of biliary tract,0.6217486994797919
+Other and unspecified anemias,Poisoning by analgesics antipyretics and antirheumatics,0.6211484593837535
+Other diseases of endocardium,Poisoning by psychotropic agents,0.6203481392557023
+Viral pneumonia,Pneumonitis due to solids and liquids,0.6148459383753502
+Malignant neoplasm of liver and intrahepatic bile ducts,Heart failure,0.614045618247299
+Other forms of chronic ischemic heart disease,Other disorders of stomach and duodenum,0.614045618247299
+Alcohol-induced mental disorders,Conduction disorders,0.6095438175270108
+Other forms of chronic ischemic heart disease,Acute myocarditis,0.6095438175270108
+Migraine,Symptoms involving cardiovascular system,0.6089435774309724
+Cardiomyopathy,Subarachnoid subdural and extradural hemorrhage following injury,0.6070428171268507
+Candidiasis,Heart failure,0.6069427771108443
+Malignant neoplasm of hypopharynx,Cardiac dysrhythmias,0.6060424169667867
+Aplastic anemia and other bone marrow failure syndromes,Persistent mental disorders due to conditions classified elsewhere,0.6018407362945178
+Hodgkin's disease,Acquired hypothyroidism,0.5996398559423769
+Other acute and subacute forms of ischemic heart disease,Conduction disorders,0.5983393357342938
+Cardiomyopathy,Osteomyelitis periostitis and other infections involving bone,0.593937575030012
+Diseases of pancreas,Other cellulitis and abscess,0.5938375350140056
+Persistent mental disorders due to conditions classified elsewhere,Diseases of pancreas,0.5936374549819928
+Occlusion of cerebral arteries,Complications peculiar to certain specified procedures,0.5918367346938775
+Occlusion of cerebral arteries,Other complications of procedures not elsewhere classified,0.5905362144857943
+Other symptoms involving abdomen and pelvis,Traumatic pneumothorax and hemothorax,0.5901360544217688
+"Acute, but ill-defined, cerebrovascular disease",Other disorders of intestine,0.5887354941976791
+Malignant neoplasm of ovary and other uterine adnexa,Heart failure,0.5883353341336535
+Ill-defined intestinal infections,Diseases of esophagus,0.5882352941176471
+Symptoms involving digestive system,Traumatic pneumothorax and hemothorax,0.5863345338135254
+Malignant melanoma of skin,"Pneumonia, organism unspecified",0.5846338535414166
+"Overweight, obesity and other hyperalimentation",Other disorders of gallbladder,0.5836334533813525
+Acute pulmonary heart disease,Rheumatoid arthritis and other inflammatory polyarthropathies,0.5833333333333334
+Chronic pulmonary heart disease,Other disorders of urethra and urinary tract,0.5826330532212886
+Hodgkin's disease,Certain adverse effects not elsewhere classified,0.5821328531412565
+Chronic kidney disease (ckd),Injury to heart and lung,0.5818327330932372
+Peritonitis and retroperitoneal infections,Cystitis,0.5811324529811924
+Malignant neoplasm of trachea bronchus and lung,Parkinson's disease,0.5798319327731093
+"Pneumonia, organism unspecified","Appendicitis, unqualified",0.5788315326130452
+Atherosclerosis,Chronic kidney disease (ckd),0.5771308523409364
+"Overweight, obesity and other hyperalimentation",Cholelithiasis,0.5767306922769108
+Acute reaction to stress,Complications peculiar to certain specified procedures,0.5754301720688275
+"Acute, but ill-defined, cerebrovascular disease",Toxic effect of alcohol,0.575030012004802
+Acquired hypothyroidism,Hereditary hemolytic anemias,0.5746298519407763
+Muscular dystrophies and other myopathies,Cardiomyopathy,0.5739295718287315
+Herpes zoster,Symptoms involving cardiovascular system,0.5739295718287315
+"Pneumonia, organism unspecified",Gastric ulcer,0.5722288915566226
+Cardiomyopathy,Diseases of pancreas,0.5722288915566226
+Human immunodeficiency virus [HIV] disease,Disorders of lipoid metabolism,0.5719287715086034
+Disorders of the pituitary gland and its hypothalamic control,Other ill-defined and unknown causes of morbidity and mortality,0.569327731092437
+Other malignant neoplasms of lymphoid and histiocytic tissue,Chronic liver disease and cirrhosis,0.5691276510604242
+Secondary malignant neoplasm of respiratory and digestive systems,Other alveolar and parietoalveolar pneumonopathy,0.5690276110444178
+Malignant neoplasm of other and unspecified parts of nervous system,Acute myocardial infarction,0.5682272909163666
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Pleurisy,0.5681272509003601
+Multiple sclerosis,Other cellulitis and abscess,0.5673269307723089
+Chronic liver disease and cirrhosis,Intracranial injury of other and unspecified nature,0.5639255702280912
+Occlusion of cerebral arteries,Phlebitis and thrombophlebitis,0.5622248899559824
+Other diseases of endocardium,Liver abscess and sequelae of chronic liver disease,0.5615246098439376
+Malignant neoplasm of trachea bronchus and lung,Poisoning by psychotropic agents,0.5607242897158864
+Purpura and other hemorrhagic conditions,"Renal failure, unspecified",0.5594237695078031
+Acute pulmonary heart disease,Diseases of pancreas,0.5580232092837135
+Septicemia,Malignant melanoma of skin,0.5577230892356942
+Gastrointestinal hemorrhage,Fracture of rib(s) sternum larynx and trachea,0.5577230892356942
+Acute and subacute endocarditis,Nonspecific findings on examination of blood,0.5573229291716687
+Other diseases of upper respiratory tract,Chronic kidney disease (ckd),0.5553221288515406
+Malignant neoplasm of thyroid gland,Other diseases of lung,0.554921968787515
+Other and unspecified anemias,Viral pneumonia,0.554921968787515
+Symptoms involving digestive system,Fracture of rib(s) sternum larynx and trachea,0.5540216086434574
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Pneumonitis due to solids and liquids,0.5538215286114446
+Episodic mood disorders,Multiple sclerosis,0.5515206082432973
+Other diseases of endocardium,Peritonitis and retroperitoneal infections,0.5512204881952781
+Aortic aneurysm and dissection,Other cellulitis and abscess,0.5499199679871949
+Chronic kidney disease (ckd),Other congenital anomalies of heart,0.5498199279711885
+Coagulation defects,Transient cerebral ischemia,0.5496198479391756
+Multiple sclerosis,Cardiomyopathy,0.5478191276510604
+Malignant neoplasm of pancreas,Other ill-defined and unknown causes of morbidity and mortality,0.5477190876350541
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Acute myocardial infarction,0.5471188475390156
+Intracranial and intraspinal abscess,Heart failure,0.5462184873949579
+Chronic bronchitis,Gastric ulcer,0.5453181272509003
+Other diseases of endocardium,Acute and subacute necrosis of liver,0.5447178871548619
+Other symptoms involving abdomen and pelvis,Fracture of rib(s) sternum larynx and trachea,0.54421768707483
+"Renal failure, unspecified",Nonspecific findings on examination of blood,0.5436174469787916
+Malignant neoplasm of female breast,Symptoms involving respiratory system and other chest symptoms,0.5430172068827531
+Hypertensive heart and chronic kidney disease,Other forms of chronic ischemic heart disease,0.5425170068027211
+Other disorders of pancreatic internal secretion,Other paralytic syndromes,0.5423169267707083
+"Pneumonia, organism unspecified",Other diseases of respiratory system,0.5410164065626251
+Diabetes mellitus,Calculus of kidney and ureter,0.5397158863545418
+Malignant neoplasm of pancreas,Symptoms involving respiratory system and other chest symptoms,0.5387154861944778
+Heart failure,Injury to heart and lung,0.5344137655062025
+Transient mental disorders due to conditions classified elsewhere,Diffuse diseases of connective tissue,0.533813525410164
+Other diseases of pericardium,Cystitis,0.5329131652661064
+Gastrointestinal hemorrhage,Traumatic pneumothorax and hemothorax,0.531812725090036
+Acute reaction to stress,Diffuse diseases of connective tissue,0.5316126450580232
+Herpes zoster,Other forms of chronic ischemic heart disease,0.530812324929972
+Myeloid leukemia,Other disorders of urethra and urinary tract,0.5286114445778312
+Septicemia,Cerebral laceration and contusion,0.5271108443377351
+Malignant neoplasm of gallbladder and extrahepatic bile ducts,Other ill-defined and unknown causes of morbidity and mortality,0.5266106442577031
+Acute pulmonary heart disease,Peritonitis and retroperitoneal infections,0.5258103241296519
+Malignant neoplasm of larynx,Other conditions of brain,0.5240096038415366
+Regional enteritis,Other disorders of urethra and urinary tract,0.5225090036014406
+Malignant neoplasm of brain,Cardiomyopathy,0.5213085234093637
+Hypertensive heart disease,Other forms of chronic ischemic heart disease,0.5212084833933573
+Encephalitis myelitis and encephalomyelitis,Heart failure,0.5198079231692677
+Malignant neoplasm of trachea bronchus and lung,Liver abscess and sequelae of chronic liver disease,0.5198079231692677
+"Pneumonia, organism unspecified",Spinal cord injury without evidence of spinal bone injury,0.5192076830732293
+Disorders of mineral metabolism,Poisoning by psychotropic agents,0.5190076030412165
+Chronic bronchitis,Symptoms involving nervous and musculoskeletal systems,0.5180072028811524
+Cystitis,Cystitis,0.517907162865146
+Other ill-defined and unknown causes of morbidity and mortality,Complications of medical care not elsewhere classified,0.5178071228491397
+Schizophrenic disorders,Occlusion of cerebral arteries,0.515906362545018
+Other and unspecified anemias,Symptoms involving urinary system,0.515906362545018
+"Acute, but ill-defined, cerebrovascular disease","Renal failure, unspecified",0.5155062024809924
+Episodic mood disorders,Peritonitis and retroperitoneal infections,0.5148059223689476
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,"Acute, but ill-defined, cerebrovascular disease",0.5128051220488196
+Anterior horn cell disease,Symptoms involving respiratory system and other chest symptoms,0.5127050820328132
+Chronic bronchitis,Spinal cord injury without evidence of spinal bone injury,0.5116046418567427
+Septicemia,Drug-induced mental disorders,0.5116046418567427
+Malignant neoplasm of bladder,Asthma,0.5084033613445378
+Coagulation defects,Arterial embolism and thrombosis,0.5064025610244097
+Malignant neoplasm of bladder,Acute myocardial infarction,0.5059023609443778
+Heart failure,Injury to kidney,0.5056022408963585
+Acute and subacute endocarditis,Pneumonitis due to solids and liquids,0.5051020408163265
+Asbestosis,General symptoms,0.5046018407362945
+Heart failure,Fracture of tibia and fibula,0.5044017607042817
+Acute reaction to stress,Acute and subacute necrosis of liver,0.5028011204481793
+Atherosclerosis,Other ill-defined and unknown causes of morbidity and mortality,0.5025010004001601
+Persistent mental disorders due to conditions classified elsewhere,Persistent mental disorders due to conditions classified elsewhere,0.5022008803521408
+Other cellulitis and abscess,Chronic ulcer of skin,0.5008003201280512
+Septicemia,Fracture of pelvis,0.5007002801120448
+Diseases of esophagus,Other disorders of intestine,0.5002000800320128
+Migraine,Hypotension,0.4996998799519808
+Hereditary hemolytic anemias,Certain adverse effects not elsewhere classified,0.49909963985594236
+Septicemia,Complications of medical care not elsewhere classified,0.49899959983993597
+Malignant neoplasm of brain,Other disorders of pancreatic internal secretion,0.49749899959983995
+Diabetes mellitus,Intracranial injury of other and unspecified nature,0.4969987995198079
+Other malignant neoplasms of lymphoid and histiocytic tissue,Transient mental disorders due to conditions classified elsewhere,0.4963985594237695
+Diabetes mellitus,Other diseases of pericardium,0.4961984793917567
+Coagulation defects,"Renal failure, unspecified",0.4950980392156863
+Malignant neoplasm of trachea bronchus and lung,Acute and subacute necrosis of liver,0.493297318927571
+Malignant neoplasm of larynx,Acute myocardial infarction,0.49309723889555823
+Ill-defined descriptions and complications of heart disease,General symptoms,0.492797118847539
+Acquired hypothyroidism,Atherosclerosis,0.491796718687475
+Drug-induced mental disorders,Chronic kidney disease (ckd),0.491296518607443
+Other acute and subacute forms of ischemic heart disease,Complications peculiar to certain specified procedures,0.49069627851140457
+Other ill-defined and unknown causes of morbidity and mortality,Effects of reduced temperature,0.49069627851140457
+Encephalitis myelitis and encephalomyelitis,Cardiac dysrhythmias,0.49019607843137253
+Transient mental disorders due to conditions classified elsewhere,Phlebitis and thrombophlebitis,0.48959583833533415
+Occlusion of cerebral arteries,Chronic liver disease and cirrhosis,0.4894957983193277
+Secondary malignant neoplasm of other specified sites,Acute reaction to stress,0.4864945978391357
+Coagulation defects,Acute and subacute endocarditis,0.48559423769507803
+Liver abscess and sequelae of chronic liver disease,Other cellulitis and abscess,0.4841936774709884
+Other malignant neoplasms of lymphoid and histiocytic tissue,Acute reaction to stress,0.48289315726290516
+Persistent mental disorders due to conditions classified elsewhere,Phlebitis and thrombophlebitis,0.48219287715086034
+Acquired hypothyroidism,Injury to gastrointestinal tract,0.4804921968787515
+Muscular dystrophies and other myopathies,Acute pulmonary heart disease,0.47949179671868747
+Acute kidney failure,Toxic effect of carbon monoxide,0.47949179671868747
+Purpura and other hemorrhagic conditions,Viral pneumonia,0.47909163665466187
+Transient mental disorders due to conditions classified elsewhere,Parkinson's disease,0.47889155662264904
+Coagulation defects,Symptoms involving urinary system,0.47879151660664265
+Alcohol-induced mental disorders,Rheumatoid arthritis and other inflammatory polyarthropathies,0.47829131652661067
+Herpes zoster,Chronic kidney disease (ckd),0.4770908363345338
+Other peripheral vascular disease,Symptoms involving digestive system,0.4766906762705082
+Hemiplegia and hemiparesis,"Pneumonia, organism unspecified",0.4762905162064826
+Malignant neoplasm of larynx,Pleurisy,0.47619047619047616
+Migraine,Certain adverse effects not elsewhere classified,0.4756902761104442
+Chronic bronchitis,Effects of reduced temperature,0.4752901160464186
+Secondary malignant neoplasm of other specified sites,Other diseases of endocardium,0.47468987595038015
+Gastrointestinal hemorrhage,Osteomyelitis periostitis and other infections involving bone,0.47428971588635455
+Malignant neoplasm of other and unspecified parts of nervous system,"Depressive disorder, not elsewhere classified",0.4736894757903161
+Malignant neoplasm of kidney and other and unspecified urinary organs,Pneumonitis due to solids and liquids,0.47318927571028413
+Hemiplegia and hemiparesis,Chronic bronchitis,0.4730892356942777
+"Overweight, obesity and other hyperalimentation",Empyema,0.4729891956782713
+Malignant neoplasm of brain,Other cellulitis and abscess,0.4725890356142457
+Septicemia,Hypertensive heart and chronic kidney disease,0.4722889155662265
+Other diseases of spinal cord,Other ill-defined and unknown causes of morbidity and mortality,0.47158863545418167
+Hypertensive heart disease,Other ill-defined and unknown causes of morbidity and mortality,0.47058823529411764
+"Pneumonia, organism unspecified",Symptoms involving nervous and musculoskeletal systems,0.47008803521408565
+Acquired hypothyroidism,Other congenital anomalies of heart,0.468687474989996
+Other disorders of pancreatic internal secretion,Other disorders of pancreatic internal secretion,0.4651860744297719
+Persistent mental disorders due to conditions classified elsewhere,Other diseases of pericardium,0.4639855942376951
+Anterior horn cell disease,General symptoms,0.46298519407763106
+Diseases of white blood cells,Anterior horn cell disease,0.46288515406162467
+Pneumothorax and air leak,Chronic kidney disease (ckd),0.46228491396558624
+"Overweight, obesity and other hyperalimentation",Other and unspecified disorders of the nervous system,0.46008403361344535
+Malignant neoplasm without specification of site,"Pneumonia, organism unspecified",0.45998399359743897
+Ill-defined intestinal infections,Nonspecific findings on examination of blood,0.45968387354941975
+Multiple sclerosis,Diseases of esophagus,0.45958383353341337
+Other disorders of liver,Disorders of muscle ligament and fascia,0.4590836334533814
+Intestinal obstruction without mention of hernia,Intracranial injury of other and unspecified nature,0.45858343337334934
+Diseases of white blood cells,Diseases of white blood cells,0.45778311324529813
+Malignant neoplasm of trachea bronchus and lung,Malignant neoplasm of trachea bronchus and lung,0.45778311324529813
+Persistent mental disorders due to conditions classified elsewhere,Acute and subacute necrosis of liver,0.4564825930372149
+Other diseases of lung,Other local infections of skin and subcutaneous tissue,0.4561824729891957
+Other symptoms involving abdomen and pelvis,Other symptoms involving abdomen and pelvis,0.4560824329731893
+Other acute and subacute forms of ischemic heart disease,Other complications of procedures not elsewhere classified,0.4557823129251701
+Empyema,Other disorders of urethra and urinary tract,0.45478191276510604
+Other acute and subacute forms of ischemic heart disease,Rheumatoid arthritis and other inflammatory polyarthropathies,0.4541816726690676
+Transient mental disorders due to conditions classified elsewhere,Acute and subacute necrosis of liver,0.4538815526210484
+Pneumonitis due to solids and liquids,Other disorders of biliary tract,0.452781112444978
+"Overweight, obesity and other hyperalimentation",Pneumothorax and air leak,0.4525810324129652
+Sarcoidosis,Heart failure,0.45208083233293317
+Heart failure,Burns of multiple specified sites,0.4519807923169268
+Multiple myeloma and immunoproliferative neoplasms,"Overweight, obesity and other hyperalimentation",0.45178071228491395
+Malignant neoplasm of small intestine including duodenum,Essential hypertension,0.4511804721888755
+Nutritional marasmus,Certain adverse effects not elsewhere classified,0.45108043217286914
+Peptic ulcer site unspecified,Nonspecific findings on examination of blood,0.45088035214085637
+Disorders of mineral metabolism,Aortic aneurysm and dissection,0.4496798719487795
+Malignant neoplasm of liver and intrahepatic bile ducts,"Pneumonia, organism unspecified",0.4496798719487795
+"Acute, but ill-defined, cerebrovascular disease",Viral pneumonia,0.44727891156462585
+Persistent mental disorders due to conditions classified elsewhere,Poisoning by analgesics antipyretics and antirheumatics,0.44717887154861946
+Acute pulmonary heart disease,Liver abscess and sequelae of chronic liver disease,0.44607843137254904
+Disorders of the pituitary gland and its hypothalamic control,Certain adverse effects not elsewhere classified,0.4456782713085234
+Malignant neoplasm of ovary and other uterine adnexa,Other disorders of urethra and urinary tract,0.44467787114845936
+Disorders of adrenal glands,Asthma,0.44387755102040816
+Abscess of lung and mediastinum,Symptoms involving cardiovascular system,0.44387755102040816
+Herpes simplex,Symptoms involving respiratory system and other chest symptoms,0.4429771908763505
+Effects of reduced temperature,Certain adverse effects not elsewhere classified,0.4424769907963185
+Gastritis and duodenitis,Other disorders of urethra and urinary tract,0.4420768307322929
+General symptoms,Injury to blood vessels of lower extremity and unspecified sites,0.4412765106042417
+Other cellulitis and abscess,Other cellulitis and abscess,0.4406762705082033
+Chronic pulmonary heart disease,Pneumonitis due to solids and liquids,0.43867547018807523
+"Anxiety, dissociative and somatoform disorders",Arterial embolism and thrombosis,0.4381752701080432
+Disorders of fluid electrolyte and acid-base balance,Hemiplegia and hemiparesis,0.4380752300920368
+Other peripheral vascular disease,Other symptoms involving abdomen and pelvis,0.4377751100440176
+Secondary malignant neoplasm of other specified sites,Other disorders of liver,0.437374949979992
+Other peripheral vascular disease,Gastrointestinal hemorrhage,0.4370748299319728
+Muscular dystrophies and other myopathies,Other cellulitis and abscess,0.43537414965986393
+Malignant neoplasm of bladder,Other symptoms involving abdomen and pelvis,0.43477390956382556
+Cardiomyopathy,Disorders of muscle ligament and fascia,0.4339735894357743
+Secondary malignant neoplasm of respiratory and digestive systems,Schizophrenic disorders,0.43337334933973587
+Other and unspecified intracranial hemorrhage,Other alveolar and parietoalveolar pneumonopathy,0.43337334933973587
+Disorders of the pituitary gland and its hypothalamic control,Other forms of chronic ischemic heart disease,0.4332733093237295
+Other acute and subacute forms of ischemic heart disease,Subarachnoid subdural and extradural hemorrhage following injury,0.4331732693077231
+Malignant neoplasm of small intestine including duodenum,Acute kidney failure,0.4323729491796719
+Conduction disorders,Other alveolar and parietoalveolar pneumonopathy,0.43197278911564624
+"Acute, but ill-defined, cerebrovascular disease",Varicose veins of other sites,0.43147258903561425
+Diverticula of intestine,Nonspecific findings on examination of blood,0.43117246898759504
+Other forms of chronic ischemic heart disease,Poisoning by agents primarily affecting the cardiovascular system,0.43107242897158865
+Acquired hypothyroidism,Fracture of rib(s) sternum larynx and trachea,0.43107242897158865
+Malignant neoplasm of prostate,Occlusion of cerebral arteries,0.42927170868347336
+Symptoms involving respiratory system and other chest symptoms,Fracture of pelvis,0.42847138855542216
+Malignant neoplasm of prostate,Other disorders of pancreatic internal secretion,0.42817126850740295
+Intracranial and intraspinal abscess,Hypotension,0.42767106842737096
+Malignant neoplasm of larynx,Epilepsy and recurrent seizures,0.42747098839535813
+Other and unspecified anemias,Cholelithiasis,0.4252701080432173
+Other malignant neoplasms of lymphoid and histiocytic tissue,Intestinal obstruction without mention of hernia,0.4245698279311725
+Diseases of esophagus,Cerebral laceration and contusion,0.42386954781912767
+Malignant neoplasm of liver and intrahepatic bile ducts,Chronic bronchitis,0.42286914765906364
+Herpes zoster,Certain adverse effects not elsewhere classified,0.42246898759503804
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Diabetes mellitus,0.4220688275310124
+Cardiac dysrhythmias,Toxic effect of carbon monoxide,0.4216686674669868
+Chronic pulmonary heart disease,Nonspecific findings on examination of blood,0.4208683473389356
+Myoneural disorders,Chronic bronchitis,0.4181672669067627
+Persistent mental disorders due to conditions classified elsewhere,Complications peculiar to certain specified procedures,0.4181672669067627
+Alcohol-induced mental disorders,Infections of kidney,0.4175670268107243
+Cardiomyopathy,Peritonitis and retroperitoneal infections,0.4175670268107243
+Other forms of chronic ischemic heart disease,Abscess of lung and mediastinum,0.4170668267306923
+Aplastic anemia and other bone marrow failure syndromes,Other acute and subacute forms of ischemic heart disease,0.4166666666666667
+Septicemia,Injury to spleen,0.41616646658663464
+Hypertensive heart disease,Symptoms involving cardiovascular system,0.41576630652260904
+Other and unspecified disorders of the nervous system,Other disorders of urethra and urinary tract,0.41536614645858344
+Other forms of chronic ischemic heart disease,Gingival and periodontal diseases,0.414765906362545
+Alcohol-induced mental disorders,Alcohol-induced mental disorders,0.4146658663465386
+Malignant neoplasm of bone and articular cartilage,Acquired hypothyroidism,0.4143657462985194
+Symptoms involving nervous and musculoskeletal systems,Other ill-defined and unknown causes of morbidity and mortality,0.4141656662665066
+Other disorders of pancreatic internal secretion,Muscular dystrophies and other myopathies,0.4141656662665066
+Other and unspecified intracranial hemorrhage,Other symptoms involving abdomen and pelvis,0.4133653461384554
+Anterior horn cell disease,Asthma,0.4128651460584234
+Aortic aneurysm and dissection,Cystitis,0.41196478591436575
+Secondary malignant neoplasm of respiratory and digestive systems,Infections of kidney,0.41196478591436575
+Essential hypertension,Poisoning by other and unspecified drugs and medicinal substances,0.4102641056422569
+Essential hypertension,Fracture of face bones,0.4100640256102441
+Other and unspecified anemias,Other disorders of gallbladder,0.4097639055622249
+"Acute, but ill-defined, cerebrovascular disease",Other bacterial pneumonia,0.4094637855142057
+Lymphoid leukemia,Coagulation defects,0.4092637054821929
+Other conditions of brain,Other disorders of gallbladder,0.4091636654661865
+"Anxiety, dissociative and somatoform disorders","Renal failure, unspecified",0.40866346538615445
+Other disorders of urethra and urinary tract,Injury to heart and lung,0.40866346538615445
+Other acute and subacute forms of ischemic heart disease,Other acute and subacute forms of ischemic heart disease,0.40856342537014806
+Malignant neoplasm of colon,Other alveolar and parietoalveolar pneumonopathy,0.40796318527410963
+Episodic mood disorders,Disorders of muscle ligament and fascia,0.40786314525810324
+"Depressive disorder, not elsewhere classified",Other peripheral vascular disease,0.4076630652260904
+Malignant neoplasm of brain,Other acute and subacute forms of ischemic heart disease,0.4072629051620648
+Intestinal obstruction without mention of hernia,Poisoning by psychotropic agents,0.4069627851140456
+Drug-induced mental disorders,"Pneumonia, organism unspecified",0.4069627851140456
+Septicemia,Fracture of humerus,0.4062625050020008
+Disorders of adrenal glands,Pleurisy,0.4058623449379752
+Other and unspecified disorders of metabolism,Cardiac dysrhythmias,0.40556222488995597
+Cystitis,Disorders of muscle ligament and fascia,0.40406162464985995
+Intestinal infections due to other organisms,Conduction disorders,0.40376150460184074
+Asthma,Asthma,0.4025610244097639
+Other diseases of lung,Acute appendicitis,0.4025610244097639
+Acute myocardial infarction,Cerebral laceration and contusion,0.4024609843937575
+Malignant neoplasm of kidney and other and unspecified urinary organs,Diabetes mellitus,0.4023609443777511
+Transient mental disorders due to conditions classified elsewhere,Peptic ulcer site unspecified,0.4021608643457383
+Coagulation defects,Viral pneumonia,0.4020608243297319
+Other conditions of brain,Fracture of vertebral column without mention of spinal cord injury,0.4017607042817127
+Pleurisy,Pleurisy,0.4015606242496999
+Transient cerebral ischemia,Pneumonitis due to solids and liquids,0.40146058423369346
+Persistent mental disorders due to conditions classified elsewhere,Acute and subacute endocarditis,0.40046018407362943
+Other ill-defined and unknown causes of morbidity and mortality,Open wound of ocular adnexa,0.39995998399359745
+Pneumonitis due to solids and liquids,Cholelithiasis,0.3987595038015206
+Other disorders of pancreatic internal secretion,Osteomyelitis periostitis and other infections involving bone,0.3981592637054822
+Schizophrenic disorders,Complications peculiar to certain specified procedures,0.397859143657463
+Dementias,General symptoms,0.3971588635454182
+Disorders of lipoid metabolism,Other and unspecified disorders of metabolism,0.3952581032412965
+Disorders of fluid electrolyte and acid-base balance,Extrinsic allergic alveolitis,0.3946578631452581
+Calculus of kidney and ureter,Other cellulitis and abscess,0.3943577430972389
+Secondary malignant neoplasm of respiratory and digestive systems,Other complications of procedures not elsewhere classified,0.3941576630652261
+Malignant neoplasm of stomach,Other disorders of urethra and urinary tract,0.39395758303321327
+Secondary malignant neoplasm of respiratory and digestive systems,Diffuse diseases of connective tissue,0.39255702280912363
+Malignant neoplasm of prostate,Other cellulitis and abscess,0.39255702280912363
+Malignant neoplasm of pancreas,Nonspecific findings on examination of blood,0.39235694277711086
+Cardiac dysrhythmias,Fracture of tibia and fibula,0.3914565826330532
+Occlusion of cerebral arteries,Diffuse diseases of connective tissue,0.39095638255302123
+Other disorders of intestine,Other cellulitis and abscess,0.39095638255302123
+Iron deficiency anemias,Diseases of white blood cells,0.3908563425370148
+Conduction disorders,Occlusion of cerebral arteries,0.3904561824729892
+Disorders of adrenal glands,Diseases of esophagus,0.39015606242497
+Other and unspecified protein-calorie malnutrition,Other and unspecified intracranial hemorrhage,0.3892557022809124
+Other disorders of pancreatic internal secretion,Disorders of muscle ligament and fascia,0.38905562224889956
+Cardiomyopathy,Toxic effect of alcohol,0.38905562224889956
+Aplastic anemia and other bone marrow failure syndromes,Occlusion of cerebral arteries,0.38905562224889956
+Malignant neoplasm of bladder,Pneumonitis due to solids and liquids,0.3880552220888355
+Malignant neoplasm of stomach,Heart failure,0.3877551020408163
+Conduction disorders,Other complications of procedures not elsewhere classified,0.38505402160864344
+Pneumothorax and air leak,Other disorders of urethra and urinary tract,0.38495398159263705
+Encephalitis myelitis and encephalomyelitis,Chronic kidney disease (ckd),0.38485394157663066
+Diabetes mellitus,Symptoms involving urinary system,0.38415366146458585
+Gastrointestinal hemorrhage,Cerebral laceration and contusion,0.383953581432573
+Malignant neoplasm of kidney and other and unspecified urinary organs,"Anxiety, dissociative and somatoform disorders",0.38345338135254103
+Multiple sclerosis,Other disorders of liver,0.3832533013205282
+Disorders of adrenal glands,Acute myocardial infarction,0.3828531412565026
+Malignant neoplasm of trachea bronchus and lung,Intestinal obstruction without mention of hernia,0.3827531012404962
+Other alveolar and parietoalveolar pneumonopathy,Complications peculiar to certain specified procedures,0.3827531012404962
+Secondary malignant neoplasm of respiratory and digestive systems,Poisoning by psychotropic agents,0.3825530212084834
+Disorders of adrenal glands,Epilepsy and recurrent seizures,0.3817527010804322
+Disorders of mineral metabolism,Other paralytic syndromes,0.38075230092036816
+Malignant neoplasm of hypopharynx,Heart failure,0.38055222088835533
+"Anxiety, dissociative and somatoform disorders",Viral pneumonia,0.38045218087234894
+Other disorders of intestine,Other disorders of liver,0.38005202080832334
+Acute reaction to stress,Peptic ulcer site unspecified,0.37975190076030413
+Iron deficiency anemias,Pleurisy,0.3793517406962785
+Persistent mental disorders due to conditions classified elsewhere,Varicose veins of other sites,0.3783513405362145
+Hypertensive heart and chronic kidney disease,Symptoms involving cardiovascular system,0.3776510604241697
+Other forms of chronic ischemic heart disease,Complications of medical care not elsewhere classified,0.37745098039215685
+"Anxiety, dissociative and somatoform disorders",Acute and subacute endocarditis,0.37705082032813125
+Septicemia,Fracture of face bones,0.3768507402961184
+"Overweight, obesity and other hyperalimentation",Ulcerative enterocolitis,0.3754501800720288
+Alcohol-induced mental disorders,Transient cerebral ischemia,0.3754501800720288
+Persistent mental disorders due to conditions classified elsewhere,Toxic effect of alcohol,0.3745498199279712
+Coagulation defects,Gastritis and duodenitis,0.37444977991196476
+Secondary malignant neoplasm of other specified sites,Alcohol-induced mental disorders,0.37444977991196476
+Chronic bronchitis,Toxic effect of carbon monoxide,0.374249699879952
+Chronic bronchitis,Fracture of pelvis,0.37334933973589435
+Cholelithiasis,Nonspecific findings on examination of blood,0.37324929971988796
+Other disorders of liver,Calculus of kidney and ureter,0.3731492597038816
+Malignant neoplasm of pancreas,Acute myocardial infarction,0.37304921968787513
+Malignant neoplasm of cervix uteri,Other ill-defined and unknown causes of morbidity and mortality,0.37284913965586236
+Diabetes mellitus,Acute and subacute endocarditis,0.3727490996398559
+Myeloid leukemia,Pneumonitis due to solids and liquids,0.37254901960784315
+Poisoning by agents primarily affecting the cardiovascular system,Certain adverse effects not elsewhere classified,0.37174869947979194
+Essential hypertension,Other disorders of soft tissues,0.37144857943177273
+Polyarteritis nodosa and allied conditions,Pneumonitis due to solids and liquids,0.3713485394157663
+Other and unspecified intracranial hemorrhage,Poisoning by psychotropic agents,0.3705482192877151
+Cardiomyopathy,Transient cerebral ischemia,0.3701480592236895
+Other disorders of pancreatic internal secretion,Parkinson's disease,0.36934773909563823
+Symptoms involving cardiovascular system,Open wound of ocular adnexa,0.36924769907963184
+Occlusion of cerebral arteries,Poisoning by psychotropic agents,0.36914765906362546
+Hypertensive heart and chronic kidney disease,Hypotension,0.36904761904761907
+Malignant neoplasm of female breast,Acute myocardial infarction,0.36884753901560624
+Gastric ulcer,Other ill-defined and unknown causes of morbidity and mortality,0.3681472589035614
+Late effects of acute poliomyelitis,Other ill-defined and unknown causes of morbidity and mortality,0.3679471788715486
+Malignant neoplasm of larynx,"Depressive disorder, not elsewhere classified",0.3677470988395358
+Gastrointestinal hemorrhage,Poisoning by analgesics antipyretics and antirheumatics,0.3674469787915166
+Chronic bronchitis,Fracture of humerus,0.3673469387755102
+Lymphoid leukemia,Chronic liver disease and cirrhosis,0.367046818727491
+Anterior horn cell disease,Other conditions of brain,0.3663465386154462
+Occlusion of cerebral arteries,Peritonitis and retroperitoneal infections,0.36624649859943975
+Purpura and other hemorrhagic conditions,Empyema,0.3659463785514206
+Alcohol-induced mental disorders,Diffuse diseases of connective tissue,0.36574629851940776
+Malignant neoplasm of brain,Occlusion of cerebral arteries,0.36514605842336934
+Disorders of the pituitary gland and its hypothalamic control,Chronic kidney disease (ckd),0.36494597839135656
+Other peripheral vascular disease,Chronic bronchitis,0.36474589835934373
+Empyema,Nonspecific findings on examination of blood,0.3645458183273309
+Septicemia,Other diseases of spinal cord,0.36354541816726693
+Other alveolar and parietoalveolar pneumonopathy,Other complications of procedures not elsewhere classified,0.3634453781512605
+Diabetes mellitus,Symptoms involving head and neck,0.3629451780712285
+"Overweight, obesity and other hyperalimentation",Cerebral laceration and contusion,0.36214485794317725
+Disorders of mineral metabolism,Multiple sclerosis,0.3619447779111645
+Malignant neoplasm of prostate,Episodic mood disorders,0.36094437775110044
+Other diseases of endocardium,Subarachnoid subdural and extradural hemorrhage following injury,0.360344137655062
+Secondary malignant neoplasm of other specified sites,Diabetes mellitus,0.3599439775910364
+Diseases of esophagus,Symptoms involving urinary system,0.35984393757503
+"Pneumonia, organism unspecified",Fracture of humerus,0.3596438575430172
+Acute and subacute endocarditis,Cardiomyopathy,0.3592436974789916
+Acquired hypothyroidism,Hypertensive heart disease,0.3589435774309724
+Occlusion of cerebral arteries,Peptic ulcer site unspecified,0.358843537414966
+Chronic bronchitis,Fracture of other and unspecified parts of femur,0.35804321728691474
+Other diseases of pericardium,Chronic liver disease and cirrhosis,0.35764305722288914
+Purpura and other hemorrhagic conditions,Functional digestive disorders not elsewhere classified,0.35714285714285715
+Chronic pulmonary heart disease,"Acute, but ill-defined, cerebrovascular disease",0.3566426570628251
+Malignant neoplasm of connective and other soft tissue,General symptoms,0.35634253701480595
+Other disorders of pancreatic internal secretion,Peptic ulcer site unspecified,0.35634253701480595
+Disorders of adrenal glands,Symptoms involving digestive system,0.3559423769507803
+Malignant neoplasm of colon,Chronic ulcer of skin,0.3556422569027611
+Human immunodeficiency virus [HIV] disease,Asthma,0.35414165666266506
+Disorders of fluid electrolyte and acid-base balance,Ill-defined descriptions and complications of heart disease,0.3536414565826331
+Chronic bronchitis,Poisoning by other central nervous system depressants and anesthetics,0.35354141656662663
+Atherosclerosis,Symptoms involving cardiovascular system,0.35304121648659464
+Malignant neoplasm of small intestine including duodenum,Heart failure,0.35274109643857543
+"Appendicitis, unqualified",Other ill-defined and unknown causes of morbidity and mortality,0.35264105642256904
+Other acute and subacute forms of ischemic heart disease,Diseases of pancreas,0.35224089635854344
+Diabetes mellitus,Other bacterial pneumonia,0.35224089635854344
+Occlusion of cerebral arteries,Occlusion of cerebral arteries,0.352140856342537
+Other diseases of respiratory system,Other ill-defined and unknown causes of morbidity and mortality,0.3518407362945178
+Inflammatory and toxic neuropathy,"Acute, but ill-defined, cerebrovascular disease",0.3517406962785114
+Other diseases of upper respiratory tract,Other disorders of urethra and urinary tract,0.3514405762304922
+"Renal failure, unspecified",Other cellulitis and abscess,0.35074029611844737
+Occlusion of cerebral arteries,Liver abscess and sequelae of chronic liver disease,0.35014005602240894
+"Acute, but ill-defined, cerebrovascular disease",Other disorders of biliary tract,0.34993997599039617
+Other conditions of brain,Fracture of pelvis,0.3498399359743898
+Other and unspecified disorders of the nervous system,Pneumonitis due to solids and liquids,0.34963985594237695
+Pneumonitis due to solids and liquids,Pneumonitis due to solids and liquids,0.34953981592637057
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Cardiomyopathy,0.3490396158463385
+Hodgkin's disease,"Overweight, obesity and other hyperalimentation",0.3487394957983193
+Acute reaction to stress,Other diseases of pericardium,0.3482392957182873
+Malignant neoplasm of other and unspecified parts of mouth,Certain adverse effects not elsewhere classified,0.34813925570228094
+Malignant neoplasm of hypopharynx,Other forms of chronic ischemic heart disease,0.3480392156862745
+Septicemia,Open wound of ocular adnexa,0.3477390956382553
+Other diseases of pericardium,Occlusion of cerebral arteries,0.3473389355742297
+Other disorders of liver,Osteomyelitis periostitis and other infections involving bone,0.3471388555422169
+"Overweight, obesity and other hyperalimentation",Hereditary hemolytic anemias,0.3461384553821529
+Transient cerebral ischemia,Other disorders of liver,0.34593837535014005
+Gastric ulcer,Symptoms involving cardiovascular system,0.34583833533413366
+Cardiomyopathy,"Renal failure, unspecified",0.3457382953181273
+Pleurisy,Disorders of muscle ligament and fascia,0.34513805522208885
+Other malignant neoplasms of lymphoid and histiocytic tissue,Occlusion of cerebral arteries,0.34473789515806325
+Conduction disorders,Chronic liver disease and cirrhosis,0.3446378551420568
+Schizophrenic disorders,Other and unspecified intracranial hemorrhage,0.3438375350140056
+Purpura and other hemorrhagic conditions,Regional enteritis,0.3438375350140056
+"Overweight, obesity and other hyperalimentation",Infections of kidney,0.3426370548219288
+Other paralytic syndromes,Other alveolar and parietoalveolar pneumonopathy,0.34243697478991597
+"Pneumonia, organism unspecified",Fracture of other and unspecified parts of femur,0.3423369347739096
+Intestinal infections due to other organisms,Secondary malignant neoplasm of respiratory and digestive systems,0.34183673469387754
+Malignant neoplasm of colon,Complications peculiar to certain specified procedures,0.34163665466186477
+Other diseases of lung,Other disorders of bladder,0.3407362945178071
+Chronic bronchitis,Fracture of face bones,0.3404361744697879
+Pneumonitis due to solids and liquids,Empyema,0.3402360944377751
+Acute bronchitis and bronchiolitis,Symptoms involving cardiovascular system,0.3400360144057623
+Disorders of lipoid metabolism,"Appendicitis, unqualified",0.3396358543417367
+Septicemia,Symptoms involving nervous and musculoskeletal systems,0.3393357342937175
+Other and unspecified intracranial hemorrhage,Chronic ulcer of skin,0.33913565426170467
+"Acute, but ill-defined, cerebrovascular disease",Cholelithiasis,0.33913565426170467
+Disorders of adrenal glands,Gastrointestinal hemorrhage,0.33883553421368545
+Other and unspecified anemias,Empyema,0.3386354541816727
+Sarcoidosis,Chronic kidney disease (ckd),0.3385354141656663
+"Pneumonia, organism unspecified",Other local infections of skin and subcutaneous tissue,0.33833533413365346
+Disorders of fluid electrolyte and acid-base balance,Meningitis of unspecified cause,0.3382352941176471
+Acute appendicitis,General symptoms,0.33813525410164064
+"Anxiety, dissociative and somatoform disorders",Other bacterial pneumonia,0.33793517406962786
+Septicemia,Toxic effect of carbon monoxide,0.33773509403761504
+Lymphoid leukemia,"Anxiety, dissociative and somatoform disorders",0.33733493397358943
+Other malignant neoplasms of lymphoid and histiocytic tissue,Alcohol-induced mental disorders,0.33733493397358943
+Malignant neoplasm of ovary and other uterine adnexa,Purpura and other hemorrhagic conditions,0.33733493397358943
+Malignant neoplasm of rectum rectosigmoid junction and anus,Hypotension,0.33693477390956383
+Chronic kidney disease (ckd),Toxic effect of carbon monoxide,0.33693477390956383
+Aortic aneurysm and dissection,Other alveolar and parietoalveolar pneumonopathy,0.3363345338135254
+Episodic mood disorders,Other disorders of intestine,0.33613445378151263
+Persistent mental disorders due to conditions classified elsewhere,Symptoms involving head and neck,0.3358343337334934
+Other acute and subacute forms of ischemic heart disease,Other alveolar and parietoalveolar pneumonopathy,0.33423369347739096
+Malignant neoplasm of cervix uteri,Chronic kidney disease (ckd),0.33413365346138457
+Multiple sclerosis,Other acute and subacute forms of ischemic heart disease,0.33383353341336536
+Other and unspecified anemias,Intracranial injury of other and unspecified nature,0.33373349339735897
+Other and unspecified anemias,Pneumothorax and air leak,0.33373349339735897
+Asbestosis,Other diseases of lung,0.33343337334933976
+Other malignant neoplasms of lymphoid and histiocytic tissue,"Anxiety, dissociative and somatoform disorders",0.3328331332533013
+Disorders of adrenal glands,Other symptoms involving abdomen and pelvis,0.3326330532212885
+Arterial embolism and thrombosis,Gastrointestinal hemorrhage,0.3326330532212885
+Disorders of mineral metabolism,Osteomyelitis periostitis and other infections involving bone,0.3323329331732693
+Aplastic anemia and other bone marrow failure syndromes,Schizophrenic disorders,0.3323329331732693
+Other and unspecified protein-calorie malnutrition,Other alveolar and parietoalveolar pneumonopathy,0.3321328531412565
+Occlusion of cerebral arteries,Infections of kidney,0.3320328131252501
+Muscular dystrophies and other myopathies,Other acute and subacute forms of ischemic heart disease,0.3299319727891156
+Other disorders of pancreatic internal secretion,Diffuse diseases of connective tissue,0.32983193277310924
+"Overweight, obesity and other hyperalimentation",Other disorders of stomach and duodenum,0.32933173269307725
+"Depressive disorder, not elsewhere classified",Arterial embolism and thrombosis,0.3292316926770708
+"Anxiety, dissociative and somatoform disorders",Acute and subacute necrosis of liver,0.3277310924369748
+"Pneumonia, organism unspecified",Injury to liver,0.32703081232493
+Malignant neoplasm of other and unspecified parts of nervous system,Cystitis,0.32673069227691076
+Chronic bronchitis,Poisoning by other and unspecified drugs and medicinal substances,0.32633053221288516
+Coagulation defects,Regional enteritis,0.32633053221288516
+Multiple myeloma and immunoproliferative neoplasms,Nonspecific findings on examination of blood,0.32593037214885956
+"Anxiety, dissociative and somatoform disorders",Symptoms involving head and neck,0.32563025210084034
+Secondary malignant neoplasm of respiratory and digestive systems,Acute and subacute necrosis of liver,0.32553021208483396
+Coagulation defects,Other disorders of gallbladder,0.32533013205282113
+Herpes simplex,Acute myocardial infarction,0.32533013205282113
+"Acute, but ill-defined, cerebrovascular disease",Polyarteritis nodosa and allied conditions,0.32523009203681474
+Gastrointestinal hemorrhage,Symptoms involving head and neck,0.3251300520208083
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Episodic mood disorders,0.3250300120048019
+Myeloid leukemia,"Acute, but ill-defined, cerebrovascular disease",0.32482993197278914
+Hodgkin's disease,Other disorders of urethra and urinary tract,0.32452981192476993
+"Acute, but ill-defined, cerebrovascular disease",Other disorders of gallbladder,0.3244297719087635
+Other cellulitis and abscess,Intracranial injury of other and unspecified nature,0.3235294117647059
+Aplastic anemia and other bone marrow failure syndromes,Intracranial injury of other and unspecified nature,0.3235294117647059
+Myoneural disorders,Other ill-defined and unknown causes of morbidity and mortality,0.32342937174869946
+Hereditary hemolytic anemias,Other disorders of urethra and urinary tract,0.32262905162064826
+Other extrapyramidal disease and abnormal movement disorders,Chronic bronchitis,0.3220288115246098
+Anterior horn cell disease,Diseases of esophagus,0.3220288115246098
+Secondary malignant neoplasm of respiratory and digestive systems,Parkinson's disease,0.3217286914765906
+Septicemia,Other and unspecified disorders of metabolism,0.3216286514605842
+Other cellulitis and abscess,Poisoning by psychotropic agents,0.32152861144457784
+Secondary malignant neoplasm of respiratory and digestive systems,Occlusion of cerebral arteries,0.32142857142857145
+Herpes simplex,Asthma,0.3212284913965586
+Cardiac dysrhythmias,Fracture of humerus,0.3212284913965586
+Malignant neoplasm of brain,Other disorders of liver,0.320328131252501
+Malignant neoplasm of other and unspecified parts of mouth,Disorders of lipoid metabolism,0.3199279711884754
+Malignant neoplasm of colon,Schizophrenic disorders,0.3195278111244498
+Disorders of mineral metabolism,Disorders of mineral metabolism,0.3191276510604242
+Malignant neoplasm of cervix uteri,Certain adverse effects not elsewhere classified,0.3190276110444178
+Cardiac dysrhythmias,Acute bronchitis and bronchiolitis,0.3187274909963986
+Late effects of acute poliomyelitis,Symptoms involving cardiovascular system,0.31812725090036015
+Abscess of lung and mediastinum,Certain adverse effects not elsewhere classified,0.31812725090036015
+Other disorders of gallbladder,Symptoms involving digestive system,0.3176270508203281
+Multiple myeloma and immunoproliferative neoplasms,Pneumonitis due to solids and liquids,0.3175270108043217
+Open wound of ocular adnexa,Certain adverse effects not elsewhere classified,0.3172268907563025
+Persistent mental disorders due to conditions classified elsewhere,Traumatic pneumothorax and hemothorax,0.3171268507402961
+Secondary malignant neoplasm of other specified sites,Intestinal obstruction without mention of hernia,0.3164265706282513
+Other and unspecified intracranial hemorrhage,Diffuse diseases of connective tissue,0.3160264105642257
+Malignant neoplasm of larynx,Other ill-defined and unknown causes of morbidity and mortality,0.3159263705482193
+Other cellulitis and abscess,Toxic effect of alcohol,0.3157262905162065
+"Pneumonia, organism unspecified",Poisoning by other central nervous system depressants and anesthetics,0.3156262505002001
+Other disorders of pancreatic internal secretion,Transient cerebral ischemia,0.3156262505002001
+Intestinal obstruction without mention of hernia,Liver abscess and sequelae of chronic liver disease,0.3153261304521809
+Meningitis of unspecified cause,Chronic bronchitis,0.31402561024409764
+Other and unspecified anemias,Other diseases of upper respiratory tract,0.3138255302120848
+Acute myocardial infarction,Other disorders of intestine,0.31362545018007204
+Heart failure,Fracture of face bones,0.3135254101640656
+Chronic bronchitis,Injury to blood vessels of lower extremity and unspecified sites,0.3127250900360144
+Other diseases of pericardium,Intestinal obstruction without mention of hernia,0.3123249299719888
+Diseases of esophagus,Symptoms involving head and neck,0.3123249299719888
+Heart failure,Other and unspecified intracranial hemorrhage following injury,0.3120248099239696
+Asthma,Fracture of pelvis,0.3115246098439376
+"Overweight, obesity and other hyperalimentation",Acute myocarditis,0.3115246098439376
+Acute myocardial infarction,Fracture of vertebral column without mention of spinal cord injury,0.31132452981192477
+Transient mental disorders due to conditions classified elsewhere,Subarachnoid subdural and extradural hemorrhage following injury,0.3104241696678671
+Diseases of mitral and aortic valves,Other diseases of lung,0.3104241696678671
+Other disorders of intestine,Cystitis,0.31032412965186074
+Malignant neoplasm of colon,Diffuse diseases of connective tissue,0.31022408963585435
+Other alveolar and parietoalveolar pneumonopathy,Peritonitis and retroperitoneal infections,0.3088235294117647
+Disorders of lipoid metabolism,Cholelithiasis,0.3088235294117647
+Malignant melanoma of skin,Acquired hypothyroidism,0.3085234093637455
+Malignant neoplasm of prostate,Other and unspecified intracranial hemorrhage,0.3084233693477391
+Disorders of lipoid metabolism,Intracranial and intraspinal abscess,0.3084233693477391
+Chronic bronchitis,Injury to liver,0.3078231292517007
+Other alveolar and parietoalveolar pneumonopathy,Subarachnoid subdural and extradural hemorrhage following injury,0.3077230892356943
+Other and unspecified anemias,Poisoning by psychotropic agents,0.3075230092036815
+Cardiomyopathy,Peptic ulcer site unspecified,0.30642256902761106
+Other alveolar and parietoalveolar pneumonopathy,Diseases of pancreas,0.30612244897959184
+Secondary malignant neoplasm of respiratory and digestive systems,Complications peculiar to certain specified procedures,0.3056222488995598
+Acquired hypothyroidism,Abscess of lung and mediastinum,0.3056222488995598
+Aortic aneurysm and dissection,Complications peculiar to certain specified procedures,0.30532212885154064
+Other diseases of upper respiratory tract,Nonspecific findings on examination of blood,0.3052220888355342
+Human immunodeficiency virus [HIV] disease,Other symptoms involving abdomen and pelvis,0.3050220088035214
+Meningitis of unspecified cause,Heart failure,0.3048219287715086
+Acute reaction to stress,Conduction disorders,0.3048219287715086
+Hypertensive heart disease,Certain adverse effects not elsewhere classified,0.3047218887555022
+Disorders of muscle ligament and fascia,Other symptoms involving abdomen and pelvis,0.304421768707483
+Persistent mental disorders due to conditions classified elsewhere,Chronic pulmonary heart disease,0.3037214885954382
+Malignant neoplasm of brain,Other diseases of endocardium,0.3036214485794318
+Conduction disorders,Diffuse diseases of connective tissue,0.302921168467387
+Intracranial injury of other and unspecified nature,Complications peculiar to certain specified procedures,0.30272108843537415
+Other and unspecified intracranial hemorrhage,Peptic ulcer site unspecified,0.3025210084033613
+Malignant neoplasm of other and unspecified parts of mouth,Chronic kidney disease (ckd),0.30202080832332934
+Symptoms involving digestive system,Cerebral laceration and contusion,0.3014205682272909
+Acute pulmonary heart disease,Viral pneumonia,0.3013205282112845
+Other forms of chronic ischemic heart disease,Gastric ulcer,0.30122048819527814
+Malignant neoplasm of liver and intrahepatic bile ducts,Symptoms involving cardiovascular system,0.3010204081632653
+Secondary malignant neoplasm of other specified sites,"Overweight, obesity and other hyperalimentation",0.3010204081632653
+Diseases of esophagus,Fracture of vertebral column without mention of spinal cord injury,0.3010204081632653
+Other ill-defined and unknown causes of morbidity and mortality,Fracture of face bones,0.3006202480992397
+"Pneumonia, organism unspecified",Other open wound of head,0.3003201280512205
+Other paralytic syndromes,Poisoning by psychotropic agents,0.30012004801920766
+Disorders of mineral metabolism,Transient cerebral ischemia,0.29971988795518206
+Other acute and subacute forms of ischemic heart disease,Disorders of muscle ligament and fascia,0.29971988795518206
+Septicemia,Other extrapyramidal disease and abnormal movement disorders,0.2996198479391757
+Iron deficiency anemias,Other symptoms involving abdomen and pelvis,0.29931972789115646
+Other disorders of liver,Symptoms involving urinary system,0.29851940776310526
+Essential hypertension,Bronchiectasis,0.2984193677470988
+Cardiomyopathy,Symptoms involving urinary system,0.29781912765106044
+Parkinson's disease,Other and unspecified intracranial hemorrhage,0.297719087635054
+Malignant neoplasm of colon,Infections of kidney,0.2974189675870348
+Lymphoid leukemia,Intestinal obstruction without mention of hernia,0.2973189275710284
+Other forms of chronic ischemic heart disease,Symptoms involving nervous and musculoskeletal systems,0.297218887555022
+"Acute, but ill-defined, cerebrovascular disease",Infections of kidney,0.297218887555022
+Episodic mood disorders,"Renal failure, unspecified",0.297218887555022
+Malignant neoplasm of trachea bronchus and lung,Traumatic pneumothorax and hemothorax,0.2970188075230092
+Diabetes mellitus,Inflammatory and toxic neuropathy,0.2966186474589836
+Other forms of chronic ischemic heart disease,Other diseases of respiratory system,0.29631852741096437
+Malignant neoplasm of stomach,Nonspecific findings on examination of blood,0.2954181672669068
+Aplastic anemia and other bone marrow failure syndromes,Poisoning by psychotropic agents,0.29521808723489396
+Malignant neoplasm of thyroid gland,Symptoms involving respiratory system and other chest symptoms,0.29471788715486197
+Disorders of lipoid metabolism,Varicose veins of other sites,0.29451780712284914
+Intracranial and intraspinal abscess,Chronic bronchitis,0.29411764705882354
+Malignant neoplasm of trachea bronchus and lung,Diverticula of intestine,0.29401760704281715
+Alcohol-induced mental disorders,Other disorders of intestine,0.2938175270108043
+Episodic mood disorders,Varicose veins of other sites,0.2934173669467787
+Multiple sclerosis,Other alveolar and parietoalveolar pneumonopathy,0.2931172468987595
+Other disorders of liver,Other disorders of liver,0.2929171668667467
+Certain adverse effects not elsewhere classified,Complications of medical care not elsewhere classified,0.2927170868347339
+Diabetes mellitus,Polyarteritis nodosa and allied conditions,0.2927170868347339
+Pulmonary tuberculosis,Essential hypertension,0.29261704681872747
+Myeloid leukemia,"Anxiety, dissociative and somatoform disorders",0.2921168467386955
+Schizophrenic disorders,Rheumatoid arthritis and other inflammatory polyarthropathies,0.2920168067226891
+Nutritional marasmus,Disorders of lipoid metabolism,0.2920168067226891
+Acquired hypothyroidism,Complications of medical care not elsewhere classified,0.29181672669067626
+"Pneumonia, organism unspecified",Injury to blood vessels of lower extremity and unspecified sites,0.29181672669067626
+Other disorders of urethra and urinary tract,Fracture of rib(s) sternum larynx and trachea,0.2916166466586635
+Disorders of lipoid metabolism,Toxic effect of carbon monoxide,0.2916166466586635
+Acute kidney failure,Fracture of face bones,0.29141656662665066
+"Overweight, obesity and other hyperalimentation",Acute and subacute necrosis of liver,0.29121648659463784
+Viral pneumonia,Other cellulitis and abscess,0.29111644657863145
+Malignant neoplasm without specification of site,Other ill-defined and unknown causes of morbidity and mortality,0.2909163665466186
+Other diseases of spinal cord,Hypotension,0.29061624649859946
+Lymphoid leukemia,Disorders of mineral metabolism,0.29061624649859946
+Schizophrenic disorders,Aortic aneurysm and dissection,0.29001600640256103
+Malignant neoplasm of bladder,"Depressive disorder, not elsewhere classified",0.29001600640256103
+Septicemia,Acute bronchitis and bronchiolitis,0.28991596638655465
+Other disorders of gallbladder,Symptoms involving respiratory system and other chest symptoms,0.2898159263705482
+Persistent mental disorders due to conditions classified elsewhere,Other bacterial pneumonia,0.2898159263705482
+Cystitis,Fracture of rib(s) sternum larynx and trachea,0.28961584633853543
+Hereditary hemolytic anemias,Other and unspecified anemias,0.2893157262905162
+"Overweight, obesity and other hyperalimentation",Injury to gastrointestinal tract,0.28921568627450983
+Malignant neoplasm of ovary and other uterine adnexa,Coagulation defects,0.289015606242497
+Other diseases of respiratory system,Symptoms involving cardiovascular system,0.288015206082433
+Other diseases of endocardium,Vascular insufficiency of intestine,0.28781512605042014
+Acute pericarditis,Symptoms involving cardiovascular system,0.28771508603441376
+Drug-induced mental disorders,Symptoms involving respiratory system and other chest symptoms,0.28721488595438177
+Other and unspecified anemias,Functional digestive disorders not elsewhere classified,0.28701480592236894
+Other acute and subacute forms of ischemic heart disease,Peritonitis and retroperitoneal infections,0.28701480592236894
+Infections of kidney,Other complications of procedures not elsewhere classified,0.2868147258903561
+Infections of kidney,Other cellulitis and abscess,0.28671468587434973
+Septicemia,Bronchiectasis,0.28651460584233696
+Other forms of chronic ischemic heart disease,Acute bronchitis and bronchiolitis,0.2863145258103241
+Bronchiectasis,Acute kidney failure,0.28621448579431774
+Heart failure,Poisoning by other and unspecified drugs and medicinal substances,0.2861144457783113
+"Overweight, obesity and other hyperalimentation",Atherosclerosis,0.2859143657462985
+Alcohol-induced mental disorders,Phlebitis and thrombophlebitis,0.28581432573029214
+Other ill-defined and unknown causes of morbidity and mortality,Poisoning by other and unspecified drugs and medicinal substances,0.2857142857142857
+Nonspecific findings on examination of blood,Cerebral laceration and contusion,0.2855142056822729
+Mastoiditis and related conditions,"Pneumonia, organism unspecified",0.2855142056822729
+Malignant neoplasm of colon,Other malignant neoplasms of lymphoid and histiocytic tissue,0.2852140856342537
+Other symptoms involving abdomen and pelvis,Cerebral laceration and contusion,0.2851140456182473
+Other acute and subacute forms of ischemic heart disease,Chronic ulcer of skin,0.2850140056022409
+Acute sinusitis,Acute kidney failure,0.2850140056022409
+Atherosclerosis,Nonspecific findings on examination of blood,0.2849139655862345
+Candidiasis,Chronic kidney disease (ckd),0.2848139255702281
+Malignant neoplasm of other and unspecified parts of mouth,Other forms of chronic ischemic heart disease,0.2846138455382153
+Malignant neoplasm of colon,Intracranial injury of other and unspecified nature,0.2845138055222089
+Malignant neoplasm of bone and articular cartilage,Chronic kidney disease (ckd),0.2842136854741897
+Malignant neoplasm of gallbladder and extrahepatic bile ducts,Chronic kidney disease (ckd),0.2841136454581833
+General symptoms,Dislocation of elbow,0.28391356542617047
+Schizophrenic disorders,Other paralytic syndromes,0.28361344537815125
+"Overweight, obesity and other hyperalimentation",Traumatic pneumothorax and hemothorax,0.28331332533013204
+Other paralytic syndromes,Intracranial injury of other and unspecified nature,0.28331332533013204
+Heart failure,Intracerebral hemorrhage,0.28331332533013204
+"Pneumonia, organism unspecified",Poisoning by sedatives and hypnotics,0.28321328531412565
+Neoplasm of uncertain behavior of other and unspecified sites and tissues,Other cellulitis and abscess,0.2822128851540616
+Human immunodeficiency virus [HIV] disease,Acute myocardial infarction,0.2819127651060424
+Acute and subacute endocarditis,Other cellulitis and abscess,0.2816126450580232
+Disorders of mineral metabolism,Varicose veins of other sites,0.2812124849939976
+Thyrotoxicosis with or without goiter,Other and unspecified anemias,0.2812124849939976
+Other malignant neoplasms of lymphoid and histiocytic tissue,Other and unspecified intracranial hemorrhage,0.2810124049619848
+"Anxiety, dissociative and somatoform disorders",Other disorders of gallbladder,0.2807122849139656
+Viral pneumonia,Gastrointestinal hemorrhage,0.27981192476990796
+Other bacterial pneumonia,Other cellulitis and abscess,0.27951180472188875
+Malignant neoplasm of gallbladder and extrahepatic bile ducts,Other forms of chronic ischemic heart disease,0.27941176470588236
+Alcohol-induced mental disorders,Osteomyelitis periostitis and other infections involving bone,0.27941176470588236
+Anterior horn cell disease,Epilepsy and recurrent seizures,0.279311724689876
+Episodic mood disorders,Viral pneumonia,0.27921168467386953
+Disorders of lipoid metabolism,Encephalitis myelitis and encephalomyelitis,0.27901160464185676
+Other cellulitis and abscess,Poisoning by analgesics antipyretics and antirheumatics,0.27841136454581833
+"Acute, but ill-defined, cerebrovascular disease",Regional enteritis,0.2781112444977991
+Drug-induced mental disorders,Other ill-defined and unknown causes of morbidity and mortality,0.2778111244497799
+Pneumonia due to other specified organism,Acute kidney failure,0.2773109243697479
+"Pneumonia, organism unspecified",Toxic effect of carbon monoxide,0.2771108443377351
+Cardiomyopathy,Other bacterial pneumonia,0.2767106842737095
+Other and unspecified protein-calorie malnutrition,Aortic aneurysm and dissection,0.2767106842737095
+Migraine,Other disorders of urethra and urinary tract,0.2762104841936775
+Disorders of lipoid metabolism,Functional digestive disorders not elsewhere classified,0.27581032412965184
+Transient mental disorders due to conditions classified elsewhere,Transient cerebral ischemia,0.27581032412965184
+Malignant neoplasm of small intestine including duodenum,Chronic kidney disease (ckd),0.27561024409763907
+Epilepsy and recurrent seizures,Fracture of pelvis,0.2755102040816326
+Other peripheral vascular disease,Nonspecific findings on examination of blood,0.27460984393757504
+Intracranial injury of other and unspecified nature,Other complications of procedures not elsewhere classified,0.27450980392156865
+Schizophrenic disorders,Subarachnoid subdural and extradural hemorrhage following injury,0.2744097639055622
+Conduction disorders,Poisoning by psychotropic agents,0.27420968387354944
+Acquired hypothyroidism,Other peripheral vascular disease,0.274109643857543
+Other diseases of endocardium,Traumatic pneumothorax and hemothorax,0.274109643857543
+Peritonitis and retroperitoneal infections,Infections of kidney,0.2740096038415366
+Hodgkin's disease,Other and unspecified anemias,0.2737094837935174
+Persistent mental disorders due to conditions classified elsewhere,Gastritis and duodenitis,0.273609443777511
+Other diseases of endocardium,Fracture of rib(s) sternum larynx and trachea,0.2733093237294918
+Other acute and subacute forms of ischemic heart disease,Poisoning by psychotropic agents,0.2732092837134854
+Other malignant neoplasms of lymphoid and histiocytic tissue,Conduction disorders,0.27310924369747897
+Oth and unspec malignant neoplasm of skin,General symptoms,0.27310924369747897
+Malignant neoplasm of thyroid gland,Hypotension,0.2725090036014406
+Malignant melanoma of skin,Heart failure,0.27240896358543415
+Malignant neoplasm of brain,Intracranial injury of other and unspecified nature,0.27230892356942776
+Diverticula of intestine,Chronic liver disease and cirrhosis,0.2722088835534214
+Malignant neoplasm of colon,Peptic ulcer site unspecified,0.2718087234893958
+Malignant neoplasm of ovary and other uterine adnexa,Pneumonitis due to solids and liquids,0.27160864345738295
+Diseases of mitral valve,Symptoms involving cardiovascular system,0.27160864345738295
+Acute laryngitis and tracheitis,Other diseases of lung,0.27130852340936373
+Other acute and subacute forms of ischemic heart disease,Calculus of kidney and ureter,0.27120848339335735
+Chronic bronchitis,Poisoning by sedatives and hypnotics,0.27120848339335735
+Asthma,Other disorders of intestine,0.27090836334533813
+Conduction disorders,Liver abscess and sequelae of chronic liver disease,0.2706082432973189
+"Pneumonia, organism unspecified",Fracture of one or more tarsal and metatarsal bones,0.2706082432973189
+Myeloid leukemia,Diabetes mellitus,0.2702080832332933
+Muscular dystrophies and other myopathies,Other alveolar and parietoalveolar pneumonopathy,0.2702080832332933
+Malignant neoplasm of brain,Other alveolar and parietoalveolar pneumonopathy,0.2702080832332933
+Schizophrenic disorders,Other alveolar and parietoalveolar pneumonopathy,0.2699079631852741
+Hypotension,Spinal cord injury without evidence of spinal bone injury,0.2698079231692677
+Other paralytic syndromes,Infections of kidney,0.2695078031212485
+Alcohol-induced mental disorders,Other diseases of pericardium,0.2695078031212485
+Acute pulmonary heart disease,Transient cerebral ischemia,0.2694077631052421
+Disorders of lipoid metabolism,Injury to kidney,0.2693077230892357
+Aplastic anemia and other bone marrow failure syndromes,Infections of kidney,0.2693077230892357
+Intestinal infections due to other organisms,Aortic aneurysm and dissection,0.2688075230092037
+Chronic bronchitis,Erythematous conditions,0.2687074829931973
+Acute reaction to stress,Aortic aneurysm and dissection,0.26830732292917164
+Malignant neoplasm of bladder,"Anxiety, dissociative and somatoform disorders",0.2680072028811525
+Disorders of fluid electrolyte and acid-base balance,Fracture of one or more tarsal and metatarsal bones,0.26780712284913966
+Symptoms involving cardiovascular system,Fracture of face bones,0.26780712284913966
+Aplastic anemia and other bone marrow failure syndromes,Conduction disorders,0.26760704281712683
+Septicemia,Injury to blood vessels of lower extremity and unspecified sites,0.26760704281712683
+Subarachnoid subdural and extradural hemorrhage following injury,Other complications of procedures not elsewhere classified,0.26760704281712683
+Hypotension,Gastric ulcer,0.26740696278511406
+Schizophrenic disorders,Intracranial injury of other and unspecified nature,0.2665066026410564
+Acute pulmonary heart disease,Varicose veins of other sites,0.2660064025610244
+Varicose veins of other sites,Other cellulitis and abscess,0.2657062825130052
+"Depressive disorder, not elsewhere classified",Symptoms involving head and neck,0.2656062424969988
+Malignant neoplasm of bladder,Nonspecific findings on examination of blood,0.26480592236894757
+Acute kidney failure,Other disorders of soft tissues,0.2646058423369348
+Ill-defined intestinal infections,Persistent mental disorders due to conditions classified elsewhere,0.2646058423369348
+Hemiplegia and hemiparesis,Other forms of chronic ischemic heart disease,0.26420568227290914
+Malignant neoplasm of colon,Occlusion of cerebral arteries,0.26420568227290914
+Malignant neoplasm of other and unspecified parts of nervous system,Other diseases of endocardium,0.26410564225690275
+Rheumatoid arthritis and other inflammatory polyarthropathies,Intracranial injury of other and unspecified nature,0.26400560224089636
+Rheumatoid arthritis and other inflammatory polyarthropathies,Poisoning by psychotropic agents,0.26390556222489
+Hypertensive heart and chronic kidney disease,Certain adverse effects not elsewhere classified,0.26390556222489
+Other symptoms involving abdomen and pelvis,Fracture of vertebral column without mention of spinal cord injury,0.26340536214485794
+Other alveolar and parietoalveolar pneumonopathy,Liver abscess and sequelae of chronic liver disease,0.2627050820328131
+Other cellulitis and abscess,Symptoms involving urinary system,0.2624049619847939
+Acute pulmonary heart disease,Acute and subacute endocarditis,0.26220488195278113
+Transient cerebral ischemia,Other cellulitis and abscess,0.2621048419367747
+Acute myocardial infarction,Fracture of pelvis,0.2621048419367747
+Other ill-defined and unknown causes of morbidity and mortality,Fracture of humerus,0.2618047218887555
+Multiple sclerosis,Infections of kidney,0.2618047218887555
+Malignant neoplasm of gallbladder and extrahepatic bile ducts,Acquired hypothyroidism,0.2617046818727491
+Occlusion of cerebral arteries,Acute and subacute necrosis of liver,0.2615046018407363
+Essential hypertension,Acute sinusitis,0.2612044817927171
+Disorders of mineral metabolism,Poisoning by analgesics antipyretics and antirheumatics,0.26110444177671066
+Acute pulmonary heart disease,Symptoms involving head and neck,0.26110444177671066
+Conduction disorders,Infections of kidney,0.2609043617446979
+Secondary malignant neoplasm of respiratory and digestive systems,Lymphoid leukemia,0.2608043217286915
+Malignant neoplasm of trachea bronchus and lung,Vascular insufficiency of intestine,0.26070428171268506
+Acute myocardial infarction,Osteomyelitis periostitis and other infections involving bone,0.2605042016806723
+Acute pulmonary heart disease,Other bacterial pneumonia,0.2605042016806723
+Disorders of lipoid metabolism,Fracture of tibia and fibula,0.26030412164865946
+Malignant neoplasm of bladder,Diabetes mellitus,0.2602040816326531
+Malignant neoplasm of colon,Poisoning by psychotropic agents,0.2602040816326531
+Other and unspecified anemias,Arthropathy associated with infections,0.26000400160064024
+Phlebitis and thrombophlebitis,Poisoning by psychotropic agents,0.26000400160064024
+Other ill-defined and unknown causes of morbidity and mortality,Fracture of other and unspecified parts of femur,0.25950380152060826
+Gastrointestinal hemorrhage,Fracture of vertebral column without mention of spinal cord injury,0.25930372148859543
+Other disorders of gallbladder,Other cellulitis and abscess,0.25920368147258904
+"Acute, but ill-defined, cerebrovascular disease",Empyema,0.25910364145658266
+Gastric ulcer,Certain adverse effects not elsewhere classified,0.258703481392557
+Other and unspecified intracranial hemorrhage,Infections of kidney,0.258703481392557
+Heart failure,Injury to gastrointestinal tract,0.2585034013605442
+Episodic mood disorders,Acute and subacute endocarditis,0.258203281312525
+Disorders of fluid electrolyte and acid-base balance,Acute appendicitis,0.2581032412965186
+Other and unspecified disorders of metabolism,Symptoms involving respiratory system and other chest symptoms,0.2581032412965186
+Atherosclerosis,Certain adverse effects not elsewhere classified,0.2580032012805122
+Aplastic anemia and other bone marrow failure syndromes,Acute reaction to stress,0.2578031212484994
+Malignant neoplasm of trachea bronchus and lung,Malignant neoplasm of other and unspecified parts of nervous system,0.2578031212484994
+Erythematous conditions,Symptoms involving cardiovascular system,0.2576030412164866
+Thyrotoxicosis with or without goiter,Pneumonitis due to solids and liquids,0.2575030012004802
+Malignant neoplasm of trachea bronchus and lung,Fracture of rib(s) sternum larynx and trachea,0.25730292116846737
+"Anxiety, dissociative and somatoform disorders",Other disorders of biliary tract,0.2568027210884354
+Malignant neoplasm of larynx,Certain adverse effects not elsewhere classified,0.256702681072429
+Acute pulmonary heart disease,Peptic ulcer site unspecified,0.25650260104041617
+Malignant neoplasm of colon,Parkinson's disease,0.25620248099239695
+Other acute and subacute forms of ischemic heart disease,Intracranial injury of other and unspecified nature,0.25590236094437774
+Malignant neoplasm of prostate,Alcohol-induced mental disorders,0.25590236094437774
+Disorders of mineral metabolism,Symptoms involving urinary system,0.25570228091236497
+Essential hypertension,Pneumonia due to other specified organism,0.25550220088035214
+Pneumonitis due to solids and liquids,Ulcerative enterocolitis,0.2553021208483393
+Persistent mental disorders due to conditions classified elsewhere,Other disorders of gallbladder,0.25500200080032015
+"Acute, but ill-defined, cerebrovascular disease",Gastritis and duodenitis,0.25500200080032015
+Malignant neoplasm of kidney and other and unspecified urinary organs,Other cellulitis and abscess,0.2548019207683073
+Disorders of fluid electrolyte and acid-base balance,Other open wound of head,0.25470188075230094
+"Depressive disorder, not elsewhere classified",Anterior horn cell disease,0.2546018407362945
+Essential hypertension,Asbestosis,0.2545018007202881
+"Depressive disorder, not elsewhere classified",Polyarteritis nodosa and allied conditions,0.2544017607042817
+Inflammatory and toxic neuropathy,Cardiomyopathy,0.2544017607042817
+Heart failure,Fracture of radius and ulna,0.2544017607042817
+Malignant neoplasm of rectum rectosigmoid junction and anus,"Overweight, obesity and other hyperalimentation",0.2540016006402561
+Intestinal infections due to other organisms,Poisoning by psychotropic agents,0.2539015606242497
+Cardiomyopathy,Other disorders of biliary tract,0.2535014005602241
+Other alveolar and parietoalveolar pneumonopathy,Osteomyelitis periostitis and other infections involving bone,0.25320128051220486
+Atherosclerosis,Other disorders of urethra and urinary tract,0.2530012004801921
+Other disorders of urethra and urinary tract,Other congenital anomalies of heart,0.25280112044817926
+"Acute, but ill-defined, cerebrovascular disease",Injury to heart and lung,0.25180072028811523
+Acquired hypothyroidism,Gastric ulcer,0.25170068027210885
+Diseases of white blood cells,Fracture of tibia and fibula,0.25160064025610246
+Other disorders of pancreatic internal secretion,Other bacterial pneumonia,0.25060024009603843
+Other extrapyramidal disease and abnormal movement disorders,Other ill-defined and unknown causes of morbidity and mortality,0.250500200080032
+"Pneumonia, organism unspecified",Other disorders of bladder,0.25
+Coagulation defects,Empyema,0.24989995998399359
+Herpes zoster,"Overweight, obesity and other hyperalimentation",0.24969987995198079
+Sarcoidosis,Disorders of lipoid metabolism,0.24969987995198079
+Septicemia,Fracture of other and unspecified parts of femur,0.24939975990396157
+Disorders of fluid electrolyte and acid-base balance,Dislocation of elbow,0.24939975990396157
+Malignant neoplasm of thymus heart and mediastinum,General symptoms,0.24929971988795518
+Other and unspecified intracranial hemorrhage,Peritonitis and retroperitoneal infections,0.24929971988795518
+Poisoning by psychotropic agents,Complications peculiar to certain specified procedures,0.24909963985594238
+Myeloid leukemia,Other diseases of endocardium,0.24879951980792317
+Diffuse diseases of connective tissue,Complications peculiar to certain specified procedures,0.24879951980792317
+Hodgkin's disease,Pneumonitis due to solids and liquids,0.24829931972789115
+"Pneumonia, organism unspecified",Acute appendicitis,0.24799919967987194
+Lymphoid leukemia,Occlusion of cerebral arteries,0.24789915966386555
+Malignant neoplasm of kidney and other and unspecified urinary organs,Episodic mood disorders,0.24749899959983993
+Secondary malignant neoplasm of other specified sites,Occlusion of cerebral arteries,0.24739895958383354
+Dementias,Chronic bronchitis,0.24739895958383354
+Human immunodeficiency virus [HIV] disease,Chronic bronchitis,0.24739895958383354
+Other and unspecified disorders of the nervous system,"Acute, but ill-defined, cerebrovascular disease",0.24719887955182074
