@@ -49,7 +49,7 @@ def parse_string_to_numeric(string_content):
 
 def writeDBResource(res):
     res = res.sort(desc(WEIGHT)).take(1000)
-    max_weight = res.first()[WEIGHT_INDEX]
+    max_weight = res[0][WEIGHT_INDEX]
     to_add_row = []
     for row in res:
         to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]])
