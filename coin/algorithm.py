@@ -4,7 +4,7 @@ import os
 
 import numpy as np
 import pyspark
-from pyspark.sql.functions import desc
+from pyspark.sql.functions import desc, col
 
 from CoinBase import *
 from Engine import *
@@ -47,7 +47,7 @@ def parse_string_to_numeric(string_content):
 
 
 def writeDBResource(res):
-    res = res.sort(desc(WEIGHT)).take(1000)
+    res = res.sort(desc(WEIGHT)).take(3000)
     max_weight = res[0][WEIGHT_INDEX]
     to_add_row = []
     with open('people.csv', 'w') as writeFile:
