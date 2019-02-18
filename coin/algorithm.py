@@ -53,8 +53,8 @@ def writeDBResource(res):
     with open('people.csv', 'w') as writeFile:
         writer = csv.writer(writeFile)
         for row in res:
-            to_add_row.append(numeric_to_disease[row[A_NODE_INDEX]])
-            to_add_row.append(numeric_to_disease[row[B_NODE_INDEX]])
+            to_add_row.append(str(numeric_to_disease[row[A_NODE_INDEX]]))
+            to_add_row.append(str(numeric_to_disease[row[B_NODE_INDEX]]))
             to_add_row.append(row[WEIGHT_INDEX] / max_weight)
             print (to_add_row)
             writer.writerows(to_add_row)
@@ -71,8 +71,6 @@ def run(string_content):
         Dk = getUVDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         Dd = getUVSecondCircleDFfromUndirectedEdgePairsRDD(sqlContext, edge_pairs, base_coin_functions)
         res = get_plausible_filtered(sqlContext, Dk, Dd, base_coin_functions)
-        # res.take(1000).toPandas().to_csv('pandas.csv')
-        print ("-----------------------------saved into pandas--------------------------------")
         writeDBResource(res)
         print ("-----------------------------saved into people--------------------------------")
 
