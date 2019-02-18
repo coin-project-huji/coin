@@ -55,7 +55,8 @@ def writeDBResource(res):
         for row in res:
             to_add_row.append(str(numeric_to_disease[row[A_NODE_INDEX]]))
             to_add_row.append(str(numeric_to_disease[row[B_NODE_INDEX]]))
-            to_add_row.append(row[WEIGHT_INDEX] / max_weight)
+            to_add_row.append(float(row[WEIGHT_INDEX]) / float(max_weight))
+            print float(row[WEIGHT_INDEX])
             writer.writerows([to_add_row])
             to_add_row = []
 
