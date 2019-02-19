@@ -47,7 +47,7 @@ def parse_string_to_numeric(string_content):
 
 
 def writeDBResource(res):
-    res = res.sort(desc(WEIGHT)).take(3000)
+    res = res.sort(desc(WEIGHT)).take(5000)
     max_weight = res[0][WEIGHT_INDEX]
     to_add_row = []
     with open('people.csv', 'w') as writeFile:
