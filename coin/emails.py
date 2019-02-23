@@ -10,6 +10,7 @@ from email.mime.text import MIMEText
 
 def sendEmail(to, content):
     # sendFirstEmail(to, content)
+    print "content = ", content, "\n to = ", to
     sendSecondEmail(to, content)
 
 
