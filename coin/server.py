@@ -12,10 +12,8 @@ def hello_world():
 
 @app.route('/', methods=['POST', 'GET'])
 def run():
-    print ("get json: ", request.get_json())
     to = request.get_json()["to"]
     content = request.get_json()["content"]
-    print (content, to)
     emails.sendEmail(to, content)
     return '', 204
 

@@ -41,7 +41,7 @@ def parse_string_to_numeric(string_content):
     keys = np.array(disease_to_numeric.keys())
     isin = np.flatnonzero(np.core.defchararray.find(keys, string_content) != -1)
     relevant = keys[isin]
-    if not relevant:
+    if relevant.size == 0:
         raise Exception("No results.")
     return disease_to_numeric[relevant[0]], relevant[0]
 
@@ -58,14 +58,11 @@ def writeDBResource(res):
             to_add_row.append(float(row[WEIGHT_INDEX]) / float(max_weight))
             writer.writerows([to_add_row])
             to_add_row = []
-
+parse_string_to_numeric("heart")
 
 def run(string_content):
     try:
-        print "inside run : ", string_content
         content, user_input = parse_string_to_numeric(string_content)
-        print(content, type(content),"\n", user_input, type(user_input))
-        # urllib.urlretrieve(DATA_SOURCE_URL, LOCAL_DATA_PATH)
         sc = pyspark.SparkContext.getOrCreate()
         sqlContext = pyspark.SQLContext(sc)
         edge_pairs = sc.textFile(LOCAL_DATA_PATH)
@@ -109,5 +106,4 @@ def add_row_to_result(node_, result, row):
             result = result + line + "\n"
     return result
 
-# print (run("Heart failure"))
-# parse_string_to_numeric("Heart failure")
+
