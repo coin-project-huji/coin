@@ -63,6 +63,7 @@ def writeDBResource(res):
 def run(string_content):
     try:
         content, user_input = parse_string_to_numeric(string_content)
+        print(content, type(content),"\n", user_input, type(user_input))
         # urllib.urlretrieve(DATA_SOURCE_URL, LOCAL_DATA_PATH)
         sc = pyspark.SparkContext.getOrCreate()
         sqlContext = pyspark.SQLContext(sc)
