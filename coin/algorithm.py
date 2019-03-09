@@ -82,6 +82,8 @@ def run(string_content):
 
 def get_results_map(content, user_input, res):
     result = "The top results for your search: " + user_input + ", are:\n"
+    if not res:
+        return "We are sorry, but no results found"
     for row in res:
         try:
             if row.a_node != content:
