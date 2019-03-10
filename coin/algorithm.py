@@ -27,14 +27,14 @@ DATA_SOURCE_URL = "http://snap.stanford.edu/data/facebook_combined.txt.gz"
 os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"
 with open('disease_to_numeric.json') as f:
     disease_to_numeric = json.load(f)
+    disease_to_numeric = dict((k.lower(), v) for k, v in disease_to_numeric.iteritems())
 
 with open('icd_bottom_codes.json') as f:
     numeric_to_full_diseases = json.load(f)
 
 with open('icd_top_codes.json') as f:
     numeric_to_disease = json.load(f)
-
-
+    numeric_to_disease = dict((k, v.lower()) for k, v in numeric_to_disease.iteritems())
 
 
 def parse_string_to_numeric(string_content):
@@ -42,8 +42,11 @@ def parse_string_to_numeric(string_content):
     isin = np.flatnonzero(np.core.defchararray.find(keys, string_content) != -1)
     relevant = keys[isin]
     if relevant.size == 0:
-        raise Exception("No results.")
+        raise Exception("We are sorry, but no results found. Please try to be more specific.")
     return disease_to_numeric[relevant[0]], relevant[0]
+
+
+print(parse_string_to_numeric("heart failure"))
 
 
 def writeDBResource(res):
@@ -58,7 +61,7 @@ def writeDBResource(res):
             to_add_row.append(float(row[WEIGHT_INDEX]) / float(max_weight))
             writer.writerows([to_add_row])
             to_add_row = []
-parse_string_to_numeric("heart")
+
 
 def run(string_content):
     try:
@@ -107,5 +110,3 @@ def add_row_to_result(node_, result, row):
         for line in node_:
             result = result + line + "\n"
     return result
-
-
