@@ -21,9 +21,9 @@ def sendFirstEmail(to, content):
     msg['To'] = to
 
     s = smtplib.SMTP('smtp.mailgun.org', 587)
-    # Todo - change login settings for your new user..
-    # s.login('postmaster@sandboxcf29099671c7490eb8f0475d59ba01a7.mailgun.org',
-    #         '06622845eb4a6500758ff47bf996cf19-060550c6-e56db87b')
+
+    s.login('postmaster@sandboxcf29099671c7490eb8f0475d59ba01a7.mailgun.org',
+            '06622845eb4a6500758ff47bf996cf19-060550c6-e56db87b')
     s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()
 
@@ -40,8 +40,8 @@ def sendSecondEmail(to, content):
     msg['To'] = to
 
     s = smtplib.SMTP('smtp.mailgun.org', 587)
-    # Todo - change login settings for your new user..
-    # s.login('postmaster@sandboxcf29099671c7490eb8f0475d59ba01a7.mailgun.org',
-    #         '06622845eb4a6500758ff47bf996cf19-060550c6-e56db87b')
+
+    s.login('postmaster@sandboxcf29099671c7490eb8f0475d59ba01a7.mailgun.org',
+            '06622845eb4a6500758ff47bf996cf19-060550c6-e56db87b')
     s.sendmail(msg['From'], msg['To'], msg.as_string())
     s.quit()

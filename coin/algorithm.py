@@ -46,8 +46,6 @@ def parse_string_to_numeric(string_content):
     return disease_to_numeric[relevant[0]], relevant[0]
 
 
-print(parse_string_to_numeric("heart failure"))
-
 
 def writeDBResource(res):
     res = res.sort(desc(WEIGHT)).take(5000)
